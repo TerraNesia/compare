@@ -1,0 +1,8626 @@
+{{/weapons row
+| name   = Adamantite Chainsaw
+| wtype  = chainsaw
+| hm     = yes
+| rarity = 4
+| dmg    = 33
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5m
+| speed  = fast
+| ut     = 24
+| ss     = 40
+| sell   = 21600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Adamantite Drill
+| wtype  = drill
+| hm     = yes
+| rarity = 4
+| dmg    = 20
+| dtype  = melee
+| hta    = yes
+| kb     = 0
+| speed  = fast
+| ut     = 24
+| ss     = 32
+| sell   = 21600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Adamantite Glaive
+| wtype  = spear
+| hm     = yes
+| rarity = 4
+| dmg    = 38
+| dtype  = melee
+| hta    = no
+| kb     = 6
+| speed  = fast
+| ut     = 24
+| ss     = 5
+| sell   = 18000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Adamantite Pickaxe
+| wtype  = pickaxe
+| hm     = yes
+| rarity = 4
+| dmg    = 20
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 21600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Adamantite Repeater
+| wtype  = repeater
+| hm     = yes
+| rarity = 4
+| dmg    = 37
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 2.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 19
+| ss     = 10
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 24000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Adamantite Sword
+| wtype  = broadsword
+| hm     = yes
+| rarity = 4
+| dmg    = 44
+| dmgtt  =
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| kbtt   =
+| speed  = average
+| ut     = 26
+| ss     =
+| sstt   =
+| sell   = 27600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Adamantite Waraxe
+| wtype  = axe
+| hm     = yes
+| rarity = 4
+| dmg    = 43
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 21600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Aerial Bane
+| wtype  = bow
+| hm =  yes
+| rarity = 8
+| dmg    = 55
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 4.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 30
+| ss     = 11
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 50000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ale Tosser
+| wtype  = thrown
+| hm = no || rarity = 1
+| dmg    = 20
+| dtype  = thrown
+| hta    = no
+| kb     = 7
+| speed  = very slow
+| ut     = 39
+| ss     = 6.5
+| sell   = 10000
+| mana   =
+| ammo   = Ale
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Amarok
+| wtype  = yoyo
+| hm     = yes
+| rarity = 4
+| dmg    = 43
+| dtype  = melee
+| hta    = yes
+| kb     = 1
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 40000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Amazon
+| wtype  = yoyo
+| hm =  || rarity = 3
+| dmg    = 20
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 13000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Amber Staff
+| wtype  = magic
+| hm =  || rarity = 1
+| dmg    = 20
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = average
+| ut     = 27
+| ss     = 9
+| sell   = 4000
+| mana   = 7
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Amethyst Staff
+| wtype  = magic
+| hm =  || rarity = 0
+| dmg    = 14
+| dtype  = magic
+| hta    = no
+| kb     = 3.25
+| speed  = very slow
+| ut     = 39
+| ss     = 6
+| sell   = 400
+| mana   = 3
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Anchor
+| wtype  = flail
+| hm     = yes
+| rarity = 3
+| dmg    = 30
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = average
+| ut     = 29
+| ss     = 20
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Aqua Scepter
+| wtype  = magic
+| hm =  || rarity = 2
+| dmg    = 15
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 15
+| ss     = 11
+| sell   = 5400
+| mana   = 6
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Arkhalis
+| wtype  = broadsword
+| hm =  || rarity = 2
+| dmg    = 20
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 15
+| sell   = 8000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Artery
+| wtype  = yoyo
+| hm =  || rarity = 1
+| dmg    = 17
+| dtype  = melee
+| hta    = yes
+| kb     =
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ball O' Hurt
+| wtype  = flail
+| hm =  || rarity = 1
+| dmg    = 15
+| dtype  = melee
+| hta    = no
+| kb     = 6.5
+| speed  = very slow
+| ut     = 44
+| ss     = 12
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ballista Rod
+| wtype  = summon
+| hm = no || rarity = 3
+| dmg    = 27
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 10000
+| mana   = 5
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ballista Cane
+| wtype  = summon
+| hm = yes || rarity = 5
+| dmg    = 67
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 50000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ballista Staff
+| wtype  = summon
+| hm = yes || rarity = 8
+| dmg    = 140
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 200000
+| mana   = 15
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bananarang
+| wtype  = boomerang
+| hm     = yes
+| rarity = 5
+| dmg    = 40
+| dmgtt  = stacks up to 10
+| dtype  = melee
+| hta    = yes
+| kb     = 8.5
+| speed  = insanely fast
+| ut     = 7
+| ss     = 14
+| sell   = 15000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bat Scepter
+| wtype  = magic
+| hm     = yes
+| rarity = 8
+| dmg    = 45*2
+| dtype  = magic
+| hta    = yes
+| kb     = 3
+| speed  = very fast
+| ut     = 12
+| ss     = 10
+| sell   = 100000
+| mana   = 3
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Beam Sword
+| wtype  = broadsword
+| hm     = yes
+| rarity = 4
+| dmg    = 52
+| dtype  = melee
+| hta    = no
+| kb     = 6.5
+| speed  = very fast
+| ut     = 14
+| ss     = 11
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bee Gun
+| wtype  = magic
+| hm =  || rarity = 2
+| dmg    = 8*2.5
+| dmgtt  = 1- to 4-shot spray, 2.5-shot average
+| dtype  = magic
+| hta    = yes
+| kb     = 0
+| speed  = very fast
+| ut     = 12
+| ss     = 8
+| sell   = 30000
+| mana   = 6
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bee Keeper
+| wtype  = broadsword
+| hm =  || rarity = 3
+| dmg    = 22
+| dtype  = melee
+| hta    = yes
+| kb     = 5.2
+| speed  = fast
+| ut     = 21
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     = Confused
+| time   = 2s
+| chance = 10%
+}}
+{{/weapons row
+| name   = Beenade
+| wtype  = explosive
+| hm =  || rarity = 0
+| dmg    = 14
+| dtype  = thrown
+| hta    = no
+| kb     = 1
+| speed  = very fast
+| ut     = 14
+| ss     = 6
+| sell   = 40
+| mana   =
+| ammo   = Beenade
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Betsy's Wrath
+| wtype  = magic
+| hm = yes || rarity = 8
+| dmg    = 65
+| dtype  = magic
+| hta    = yes
+| kb     = 7
+| speed  = very fast
+| ut     = 20
+| ss     = 14
+| sell   = 50000
+| mana   = 14
+| ammo   =
+| db     = Betsy's Curse
+| time   = 5s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Blade of Grass
+| wtype  = broadsword
+| hm =  || rarity = 3
+| dmg    = 28
+| dtype  = melee
+| hta    = no
+| kb     = 3
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     = Poisoned
+| time   = 7s
+| chance = 25%
+}}
+{{/weapons row
+| name   = Bladed Glove
+| wtype  = broadsword
+| hm =  || rarity = 2
+| dmg    = 12
+| dtype  = melee
+| hta    = yes
+| kb     = 4
+| speed  = insanely fast
+| ut     = 8
+| ss     =
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bladetongue
+| wtype  = broadsword
+| hm     = yes
+| rarity = 5
+| dmg    = 55
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = average
+| ut     = 27
+| ss     = 20
+| sell   = 40000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Blizzard Staff
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 58*4
+| dmgtt  = 4-shot spread
+| dtype  = magic
+| hta    = yes
+| kb     = 4.5
+| speed  = very fast
+| ut     = 10
+| ss     = 10
+| sell   = 70000
+| mana   = 9
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Blood Butcherer
+| wtype  = broadsword
+| hm =  || rarity = 1
+| dmg    = 22
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 2700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Blood Lust Cluster
+| wtype  = axe
+| hm =  || rarity = 1
+| dmg    = 22
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = slow
+| ut     = 31
+| ss     =
+| sell   = 2700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Blood Water
+| wtype  = consumable
+| hm =  || rarity = 3
+| dmg    = 20
+| dmgtt = No bonuses from armor
+| dtype  = thrown
+| hta    = no
+| kb     = 3
+| speed  = very fast
+| ut     = 14
+| ss     = 9
+| sell   = 40
+| mana   =
+| ammo   = Blood Water
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bloody Machete
+| wtype  = boomerang
+| hm =  || rarity = 2
+| dmg    = 15
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 14
+| ss     = 15
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Blowgun
+| wtype  = gun
+| hm =  || rarity = 3
+| dmg    = 25
+| dmgtt  = actually deals 24 damage because the damage of Seeds are set at -1
+| dtype  = ranged
+| hta    = yes
+| kb     = 4
+| speed  = slow
+| ut     = 34
+| ss     = 13
+| sell   = 50000
+| mana   =
+| ammo   = Seed
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Blowpipe
+| wtype  = gun
+| hm =  || rarity = 0
+| dmg    = 9
+| dmgtt  = actually deals 8 damage because the damage of Seeds are set at -1
+| dtype  = ranged
+| hta    = yes
+| kb     = 3.5
+| speed  = very slow
+| ut     = 44
+| ss     = 11
+| sell   = 2000
+| mana   =
+| ammo   = Seed
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Blue Moon
+| wtype  = flail
+| hm =  || rarity = 2
+| dmg    = 23
+| dtype  = melee
+| hta    = no
+| kb     = 7
+| speed  = very slow
+| ut     = 44
+| ss     = 12
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bomb
+| wtype  = explosive
+| hm =  || rarity = 0
+| dmg    = 100
+| dmgtt  = also deals 200 damage to other players including yourself
+| dtype  = explosion
+| hta    = no
+| kb     = 10
+| speed  = fast
+| ut     = 24
+| ss     = 5
+| sell   = 360
+| mana   =
+| ammo   = Bomb
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bomb Fish
+| wtype  = Explosive
+| hm =  || rarity = 0
+| dmg    = 100
+| dtype  = explosion
+| hta    = no
+| kb     = 10
+| speed  = fast
+| ut     = 24
+| ss     = 6
+| sell   = 2000
+| mana   =
+| ammo   = Bomb Fish
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bone
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 22
+| dtype  = thrown
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 17
+| ss     = 8
+| sell   = 10
+| mana   =
+| ammo   = Bone
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bone Glove
+| wtype  = ranged
+| hm =  || rarity = 0
+| dmg    = (11+22)
+| dmgtt  = plus the damage of Bone
+| dtype  = thrown
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 17
+| ss     = 1
+| sell   = 10000
+| mana   =
+| ammo   = Bone
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bone Javelin
+| wtype  = consumable
+| hm     = yes
+| rarity = 1
+| dmg    = 29
+| dtype  = thrown
+| hta    = no
+| kb     = 4
+| speed  = fast
+| ut     = 24
+| ss     = 10
+| sell   = 10
+| mana   =
+| ammo   = Bone Javelin
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bone Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 1
+| dmg    = 8
+| dtype  = melee
+| hta    = yes
+| kb     = 3
+| speed  = very fast
+| ut     = 18
+| ss     =
+| sell   = 1800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bone Sword
+| wtype  = broadsword
+| hm =  || rarity = 3
+| dmg    = 16
+| dtype  = melee
+| hta    = no
+| kb     = 4.5
+| speed  = fast
+| ut     = 21
+| ss     =
+| sell   = 3600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bone Throwing Knife
+| wtype  = consumable
+| hm     = yes
+| rarity = 1
+| dmg    = 14
+| dtype  = thrown
+| hta    = no
+| kb     = 10
+| speed  = very fast
+| ut     = 13
+| ss     = 10
+| sell   = 10
+| mana   =
+| ammo   = Bone Throwing Knife
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Book of Skulls
+| wtype  = magic
+| hm =  || rarity = 2
+| dmg    = 28
+| dtype  = magic
+| hta    = yes
+| kb     = 3.5
+| speed  = fast
+| ut     = 25
+| ss     = 4
+| sell   = 10000
+| mana   = 22
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Boomstick
+| wtype  = gun
+| hm     = yes
+| rarity = 2
+| dmg    = 12*3
+| dmgtt  = plus the damage of the ammo used; 3-shot spread
+| dtype  = ranged
+| hta    = no
+| kb     = 5.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very slow
+| ut     = 39
+| ss     = 5.25
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Boreal Wood Bow
+| wtype  = Bow
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 28
+| ss     = 6.6
+| sell   = 20
+| mana   =
+| ammo   = Arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Boreal Wood Hammer
+| wtype  = Hammer
+| hm =  || rarity = 0
+| dmg    = 4
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = slow
+| ut     = 32
+| ss     =
+| sell   = 10
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Boreal Wood Sword
+| wtype  = Broadsword
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = no
+| kb     = 3
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 20
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bouncy Bomb
+| wtype  = explosive
+| hm =  || rarity = 0
+| dmg    = 100
+| dmgtt  = also deals 200 damage to other players including yourself
+| dtype  = explosion
+| hta    = no
+| kb     = 10
+| speed  = fast
+| ut     = 24
+| ss     = 5
+| sell   = 100
+| mana   =
+| ammo   = Bouncy Bomb
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bouncy Dynamite
+| wtype  = explosive
+| hm =  || rarity = 1
+| dmg    = 250
+| dmgtt  = also deals 500 damage to other players including yourself
+| dtype  = explosion
+| hta    = no
+| kb     = 10
+| speed  = very slow
+| ut     = 39
+| ss     = 4
+| sell   = 3000
+| mana   =
+| ammo   = Bouncy Dynamite
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bouncy Grenade
+| wtype  = explosive
+| hm =  || rarity = 0
+| dmg    = 60
+| dtype  = thrown
+| hta    = no
+| kb     = 8
+| speed  = very slow
+| ut     = 44
+| ss     = 5.5
+| sell   = 15
+| mana   =
+| ammo   = Bouncy Grenade
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Brand of the Inferno
+| wtype  = melee
+| hm = yes || rarity = 5
+| dmg    = 44
+| dmgtt  = With any equipped shield and holding this sword, right-clicking will cause your character to brace for the next attack. When timed correctly, just before taking a hit, the enemy's attack will be blocked, dealing some damage to the attacker and granting the Striking Moment buff for five seconds.
+| dtype  = melee
+| hta    = yes
+| kb     = 6.5
+| speed  = fast
+| ut     = 24
+| ss     = 24
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Breaker Blade
+| wtype  = broadsword
+| hm     = yes
+| rarity = 4
+| dmg    = 39
+| dtype  = melee
+| hta    = no
+| kb     = 8
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 30000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Bubble Gun
+| wtype  = magic
+| hm     = yes
+| rarity = 8
+| dmg    = 70*3
+| dtype  = magic
+| hta    = yes
+| kb     = 3
+| speed  = very fast
+| ut     = 9
+| ss     = 11
+| sell   = 50000
+| mana   = 4
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Butcher's Chainsaw
+| wtype  = chainsaw
+| hm =  || rarity = 8
+| dmg    = 120
+| dtype  = melee
+| hta    = yes
+| kb     =
+| speed  = fast
+| ut     = 24
+| ss     = 48
+| sell   = 40000
+| mana   =
+| ammo   = Bone
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cactus Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 5
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cactus Sword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 360
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Candy Cane Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 2.5
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Candy Cane Sword
+| wtype  = broadsword
+| hm =  || rarity = 1
+| dmg    = 16
+| dtype  = melee
+| hta    = no
+| kb     = 5.3
+| speed  = average
+| ut     = 26
+| ss     =
+| sell   = 2700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Candy Corn Rifle
+| wtype  = gun
+| hm     = yes
+| rarity = 8
+| dmg    = (44*1.06+9)
+| dmgtt  = +6% critical mod + Candy Corn damage
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 9
+| ss     = 10
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 150000
+| mana   =
+| ammo   = Candy Corn
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cascade
+| wtype  = yoyo
+| hm =  || rarity = 3
+| dmg    = 27
+| dtype  = melee
+| hta    = yes
+| kb     = 4
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 18000
+| mana   =
+| ammo   =
+| db     = On Fire!
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Celebration
+| wtype  = gun
+| hm     = yes| rarity = 10
+| dmg    = 65*2*1.10
+| dmgtt  = +10% critical mod, 2-shot burst
+| dtype  = ranged
+| hta    = yes
+| kb     = 4
+| speed  = average
+| ut     = 29
+| ss     = 15
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chain Guillotines
+| wtype  = ranged
+| hm     = yes
+| rarity = 5
+| dmg    = 43
+| dtype  = melee
+| hta    = yes
+| kb     = 4
+| speed  = very fast
+| ut     = 13
+| ss     = 14
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chain Gun
+| wtype  = gun
+| hm     = yes
+| rarity = 8
+| dmg    = 31
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 1.75
+| kbtt   = plus the knockback of the ammo used
+| speed  = insanely fast
+| ut     = 4
+| ss     = 14
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 50000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chain Knife
+| wtype  = flail
+| hm =  || rarity = 2
+| dmg    = 11
+| dtype  = melee
+| hta    = no
+| kb     = 3.5
+| speed  = very fast
+| ut     = 19
+| ss     = 12
+| sell   = 200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Charged Blaster Cannon
+| wtype  = magic
+| hm     = yes
+| rarity = 8
+| dmg    = 50
+| dtype  = magic
+| hta    = no
+| kb     =
+| speed  = very fast
+| ut     = 19
+| ss     = 14
+| sell   = 100000
+| mana   = 14
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chik
+| wtype  = yoyo
+| hm     = yes
+| rarity = 4
+| dmg    = 39
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 40000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Chainsaw
+| wtype  = chainsaw
+| hm =  || rarity = 7
+| dmg    = 57
+| dtype  = melee
+| hta    = yes
+| kb     = 4.6
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Claymore
+| wtype  = broadsword
+| hm     = yes
+| rarity = 7
+| dmg    = 65
+| dtype  = melee
+| hta    = no
+| kb     = 6
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 55200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Drill
+| wtype  = drill
+| hm =  || rarity = 7
+| dmg    = 35
+| dtype  = melee
+| hta    = yes
+| kb     = 1
+| speed  = fast
+| ut     = 24
+| ss     = 40
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Greataxe
+| wtype  = axe
+| hm =  || rarity = 7
+| dmg    = 70
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Jackhammer
+| wtype  = hammer
+| hm =  || rarity = 7
+| dmg    = 45
+| dtype  = melee
+| hta    = yes
+| kb     =  5.2
+| speed  = fast
+| ut     = 24
+| ss     = 46
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Partisan
+| wtype  = spear
+| hm     = yes
+| rarity = 7
+| dmg    = 49
+| dtype  = melee
+| hta    = no
+| kb     = 6.2
+| speed  = fast
+| ut     = 22
+| ss     = 5
+| sell   = 36000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 7
+| dmg    = 40
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Saber
+| wtype  = broadsword
+| hm     = yes
+| rarity = 7
+| dmg    = 43
+| dtype  = melee
+| hta    = yes
+| kb     = 4
+| speed  = very fast
+| ut     = 16
+| ss     = 8
+| sell   = 55200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Shotbow
+| wtype  = repeater
+| hm     = yes
+| rarity = 7
+| dmg    = 34*3
+| dmgtt  = plus the damage of the ammo used; 2-4 shot spread
+| dtype  = ranged
+| hta    = yes
+| kb     = 2.75
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 19
+| ss     = 11.5
+| sstt  = plus the shoot speed of the ammo used
+| sell   = 48000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Chlorophyte Warhammer
+| wtype  = hammer
+| hm =  || rarity = 7
+| dmg    = 80
+| dtype  = melee
+| hta    = yes
+| kb     = 8.5
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Christmas Tree Sword
+| wtype  = broadsword
+| hm     = yes
+| rarity = 8
+| dmg    = 73
+| dtype  = melee
+| hta    = no
+| kb     = 7
+| speed  = average
+| ut     = 25
+| ss     = 14
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Classy Cane
+| wtype  = Broadsword
+| hm     = yes
+| rarity = 2
+| dmg    = 16
+| dtype  = melee
+| hta    = no
+| kb     = 3.5
+| speed  = very fast
+| ut     = 14
+| ss     =
+| sell   = 5000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Clinger Staff
+| wtype  = Magic
+| hm     = yes
+| rarity = 5
+| dmg    = 43
+| dtype  = magic
+| hta    = no
+| kb     = 8
+| speed  = fast
+| ut     = 23
+| ss     = 15
+| sell   = 80000
+| mana   = 40
+| ammo   =
+| db     = Cursed Inferno
+| time   = 45s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Clockwork Assault Rifle
+| wtype  = gun
+| hm     = yes
+| rarity = 4
+| dmg    = 19*3
+| dmgtt  = plus the damage of the ammo used; 3-shot burst
+| dtype  = ranged
+| hta    = yes
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 24 <!--11 not including the time it takes for the 3 shot burst-->
+| ss     = 7.75
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 30000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cobalt Chainsaw
+| wtype  = chainsaw
+| hm     = yes
+| rarity = 4
+| dmg    = 23
+| dtype  = melee
+| hta    = yes
+| kb     = 2.75
+| speed  = fast
+| ut     = 24
+| ss     = 40
+| sell   = 10800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cobalt Drill
+| wtype  = drill
+| hm     = yes
+| rarity = 4
+| dmg    = 10
+| dtype  = melee
+| hta    = yes
+| kb     = 0
+| speed  = fast
+| ut     = 24
+| ss     = 32
+| sell   = 10800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cobalt Naginata
+| wtype  = spear
+| hm     = yes
+| rarity = 4
+| dmg    = 29
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = average
+| ut     = 27
+| ss     = 4.3
+| sell   = 9000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cobalt Pickaxe
+| wtype  = pickaxe
+| hm     = yes
+| rarity = 4
+| dmg    = 10
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 10800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cobalt Repeater
+| wtype  = repeater
+| hm     = yes
+| rarity = 4
+| dmg    = 30
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 1.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 24
+| ss     = 9
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 12000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cobalt Sword
+| wtype  = broadsword
+| hm     = yes
+| rarity = 4
+| dmg    = 35
+| dtype  = melee
+| hta    = yes
+| kb     = 3.85
+| speed  = fast
+| ut     = 23
+| ss     =
+| sell   = 13800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cobalt Waraxe
+| wtype  = axe
+| hm     = yes
+| rarity = 4
+| dmg    = 33
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 10800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Code 1
+| wtype  = yoyo
+| hm =  || rarity = 3
+| dmg    = 21
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Code 2
+| wtype  = yoyo
+| hm     = yes
+| rarity = 5
+| dmg    = 47
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Coin Gun
+| wtype  = gun
+| hm     = yes
+| rarity = 6
+| dmg    = 25
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| speed  = insanely fast
+| ut     = 8
+| ss     = 10
+| sell   = 60000
+| mana   =
+| ammo   = Copper Coin
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Coin Gun
+| wtype  = gun
+| hm     = yes
+| rarity = 6
+| dmg    = 50
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| speed  = insanely fast
+| ut     = 8
+| ss     = 10
+| sell   = 60000
+| mana   =
+| ammo   = Silver Coin
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Coin Gun
+| wtype  = gun
+| hm     = yes
+| rarity = 6
+| dmg    = 100
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| speed  = insanely fast
+| ut     = 8
+| ss     = 10
+| sell   = 60000
+| mana   =
+| ammo   = Gold Coin
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Coin Gun
+| wtype  = gun
+| hm     = yes
+| rarity = 6
+| dmg    = 200
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| speed  = insanely fast
+| ut     = 8
+| ss     = 10
+| sell   = 60000
+| mana   =
+| ammo   = Platinum Coin
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Copper Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 3
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 80
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Copper Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 6
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 28
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 70
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Copper Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 90
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Copper Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 4
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = slow
+| ut     = 32
+| ss     =
+| sell   = 80
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Copper Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 4
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 100
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Copper Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 5
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 12
+| ss     =
+| sell   = 70
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Crimson Rod
+| wtype  = rain
+| hm =  || rarity = 1
+| dmg    = 12
+| dmgtt  = different to most other weapons
+| dtype  = magic
+| hta    = no
+| kb     = 0
+| speed  = fast
+| ut     = 23
+| ss     = 12
+| sell   = 2000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Crystal Serpent
+| wtype  = Magic
+| hm     = yes
+| rarity = 5
+| dmg    = 40
+| dtype  = magic
+| hta    = yes
+| kb     = 4.4
+| speed  = average
+| ut     = 28
+| ss     = 13
+| sell   = 40000
+| mana   = 9
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Crystal Storm
+| wtype  = magic
+| hm     = yes
+| rarity = 4
+| dmg    = 25
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = insanely fast
+| ut     = 7
+| ss     = 16
+| sell   = 100000
+| mana   = 4
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Crystal Vile Shard
+| wtype  = magic
+| hm     = yes
+| rarity = 5
+| dmg    = 19
+| dtype  = magic
+| hta    = no
+| kb     = 3
+| speed  = slow
+| ut     = 32
+| ss     = 32
+| sell   = 80000
+| mana   = 13
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Cursed Flames
+| wtype  = magic
+| hm     = yes
+| rarity = 4
+| dmg    = 35
+| dtype  = magic
+| hta    = yes
+| kb     = 6.5
+| speed  = very fast
+| ut     = 19
+| ss     = 10
+| sell   = 100000
+| mana   = 12
+| ammo   = mana
+| db     = Cursed Inferno
+| time   = 7s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Cutlass
+| wtype  = broadsword
+| hm     = yes
+| rarity = 4
+| dmg    = 51
+| dtype  = melee
+| hta    = yes
+| kb     = 4
+| speed  = very fast
+| ut     = 16
+| ss     =
+| sell   = 36000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Daedalus Stormbow
+| wtype  = Bow
+| hm     = yes
+| rarity = 6
+| dmg    = 43
+| dtype  = ranged
+| hta    = yes
+| kb     = 2.25
+| speed  = very fast
+| ut     = 18
+| ss     = 12.5
+| sell   = 80000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Dao of Pow
+| wtype  = flail
+| hm     = yes
+| rarity = 5
+| dmg    = 49
+| dtype  = melee
+| hta    = no
+| kb     = 7
+| speed  = very slow
+| ut     = 44
+| ss     = 15
+| sell   = 28800
+| mana   =
+| ammo   =
+| db     = Confused
+| time   = 2s
+| chance = 33%
+}}
+{{/weapons row
+| name   = Dark Lance
+| wtype  = spear
+| hm =  || rarity = 3
+| dmg    = 27
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = fast
+| ut     = 24
+| ss     = 5
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Dart Pistol
+| wtype  = gun
+| hm     = yes
+| rarity = 5
+| dmg    = 28
+| dtype  = ranged
+| hta    = yes
+| kb     = 3.5
+| speed  = fast
+| ut     = 21
+| ss     = 13
+| sell   = 50000
+| mana   =
+| ammo   = darts
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Dart Rifle
+| wtype  = gun
+| hm     = yes
+| rarity = 5
+| dmg    = 52
+| dtype  = ranged
+| hta    = yes
+| kb     = 5.5
+| speed  = very slow
+| ut     = 37
+| ss     = 14.5
+| sell   = 50000
+| mana   =
+| ammo   = darts
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Daybreak
+| wtype  = Projectile_melee_weapons#Only_Projectile{{!}}projectile
+| hm     = yes
+| rarity = 10
+| dmg    = 150
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 16
+| ss     = 10
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     = Daybroken
+| time   = 15 s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Deadly Sphere Staff
+| wtype  = summon
+| hm     = yes
+| rarity = 8
+| dmg    = 50
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = slow
+| ut     = 35
+| ss     = 10
+| sell   = 50000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Death Sickle
+| wtype  = broadsword
+| hm     = yes
+| rarity = 6
+| dmg    = 57
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = fast
+| ut     = 24
+| ss     = 9
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Deathbringer Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 1
+| dmg    = 12
+| dtype  = melee
+| hta    = yes
+| kb     = 3.5
+| speed  = fast
+| ut     = 21
+| ss     =
+| sell   = 3600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Demon Bow
+| wtype  = bow
+| hm =  || rarity = 1
+| dmg    = 14
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 1
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 24
+| ss     = 6.7
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 3600
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Demon Scythe
+| wtype  = magic
+| hm =  || rarity = 3
+| dmg    = 35
+| dtype  = magic
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 19
+| ss     = 0.2
+| sstt     = gets faster and faster
+| sell   = 2000
+| mana   = 14
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Diamond Staff
+| wtype  = magic
+| hm =  || rarity = 2
+| dmg    = 23
+| dtype  = magic
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 25
+| ss     = 9.5
+| sell   = 6000
+| mana   = 8
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Drax
+| wtype  = Drill + Chainsaw
+| hm =  || rarity = 4
+| dmg    = 35
+| dtype  = melee
+| hta    = yes
+| kb     = 4.75
+| speed  = fast
+| ut     = 24
+| ss     = 36
+| sell   = 44000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Dynamite
+| wtype  = explosive
+| hm =  || rarity = 1
+| dmg    = 250
+| dmgtt  = also deals 500 damage to other players including yourself
+| dtype  = explosion
+| hta    = no
+| kb     = 10
+| speed  = very slow
+| ut     = 39
+| ss     = 4
+| sell   = 3000
+| mana   =
+| ammo   = Dynamite
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ebonwood Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 8
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 27
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ebonwood Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 10
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ebonwood Sword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 10
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 20
+| ss     =
+| sell   = 20
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Electrosphere Launcher
+| wtype  = launcher
+| hm     = yes
+| rarity = 8
+| dmg    = 40
+| dtype  = ranged
+| hta    = no
+| kb     = 2
+| speed  = very fast
+| ut     = 12
+| ss     = 8.5
+| sell   = 100000
+| mana   =
+| ammo   = rocket
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Elf Melter
+| wtype  = gun
+| hm     = yes
+| rarity = 8
+| dmg    = 40*6
+| dmgtt  = 6-shot spray (5-shot without modifiers)
+| dtype  = ranged
+| hta    = yes
+| kb     = 0.425
+| speed  = average
+| ut     = 30
+| ss     = 8.5
+| sell   = 100000
+| mana   =
+| ammo   = gel
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Emerald Staff
+| wtype  = magic
+| hm =  || rarity = 1
+| dmg    = 19
+| dtype  = magic
+| hta    = yes
+| kb     = 4.25
+| speed  = slow
+| ut     = 31
+| ss     = 8
+| sell   = 3000
+| mana   = 6
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Enchanted Boomerang
+| wtype  = boomerang
+| hm =  || rarity = 1
+| dmg    = 13
+| dtype  = melee
+| hta    = no
+| kb     = 8
+| speed  = very fast
+| ut     = 14
+| ss     = 10
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Enchanted Sword
+| wtype  = broadsword
+| hm =  || rarity = 2
+| dmg    = 18
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 18
+| ss     = 9
+| sell   = 4000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Excalibur
+| wtype  = broadsword
+| hm     = yes
+| rarity = 5
+| dmg    = 47
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 46000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Exotic Scimitar
+| wtype  = broadsword
+| hm =  || rarity = 2
+| dmg    = 20
+| dtype  = melee
+| hta    = no
+| kb     = 4.26
+| speed  = very fast
+| ut     = 17
+| ss     =
+| sell   = 5000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Explosive Trap Rod
+| wtype  = summon
+| hm = no || rarity = 3
+| dmg    = 24
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 10000
+| mana   = 5
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Explosive Trap Cane
+| wtype  = summon
+| hm = yes || rarity = 5
+| dmg    = 59
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 50000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Explosive Trap Staff
+| wtype  = summon
+| hm = yes || rarity = 8
+| dmg    = 126
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 200000
+| mana   = 15
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Falcon Blade
+| wtype  = broadsword
+| hm =  || rarity = 4
+| dmg    = 25
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = very fast
+| ut     = 14
+| ss     =
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Fiery Greatsword
+| wtype  = broadsword
+| hm =  || rarity = 3
+| dmg    = 36
+| dtype  = melee
+| hta    = no
+| kb     = 6.5
+| speed  = slow
+| ut     = 33
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     = On Fire!
+| time   = 3s
+| chance = 50%
+}}
+{{/weapons row
+| name   = Fetid Baghnakhs
+| wtype  = broadsword
+| hm     = yes
+| rarity = 5
+| dmg    = 70
+| dtype  = melee
+| hta    = yes
+| kb     = 6.5
+| speed  = insanely fast
+| ut     = 7
+| ss     =
+| sell   = 80000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flairon
+| wtype  = flail
+| hm     = yes
+| rarity = 8
+| dmg    = 66*7
+| dmgtt  = 14 homing bubbles at max, extremely likely every other will hit
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = very fast
+| ut     = 20
+| ss     = 14
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flamarang
+| wtype  = boomerang
+| hm =  || rarity = 3
+| dmg    = 32
+| dtype  = melee
+| hta    = no
+| kb     = 8
+| speed  = very fast
+| ut     = 14
+| ss     = 11
+| sell   = 20000
+| mana   =
+| ammo   =
+| db     = On Fire!
+| time   = 3s
+| chance = 20%
+}}
+{{/weapons row
+| name   = Flameburst Rod
+| wtype  = summon
+| hm = yes || rarity = 3
+| dmg    = 17
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 10000
+| mana   = 5
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flameburst Cane
+| wtype  = summon
+| hm = no || rarity = 5
+| dmg    = 42
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 50000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flameburst Staff
+| wtype  = summon
+| hm = yes || rarity = 8
+| dmg    = 88
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 200000
+| mana   = 15
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flamelash
+| wtype  = magic
+| hm =  || rarity = 3
+| dmg    = 34
+| dtype  = magic
+| hta    = no
+| kb     = 6.5
+| speed  = very fast
+| ut     = 19
+| ss     = 6
+| sell   = 2000
+| mana   = 16
+| ammo   = mana
+| db     = On Fire!
+| time   = 4s
+| chance = 50%
+}}
+{{/weapons row
+| name   = Flamethrower
+| wtype  = gun
+| hm     = yes
+| rarity = 5
+| dmg    = 27*5
+| dmgtt  = 5-shot spray
+| dtype  = ranged
+| hta    = yes
+| kb     = 0.3
+| speed  = average
+| ut     = 29
+| ss     = 7
+| sell   = 100000
+| mana   =
+| ammo   = gel
+| db     = On Fire!
+| time   = 2s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Flare Gun
+| wtype  = gun
+| hm =  || rarity = 1
+| dmg    = 2
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| speed  = very fast
+| ut     = 17
+| ss     = 6
+| sell   = 10000
+| mana   =
+| ammo   = Flare
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flesh Grinder
+| wtype  = hammer
+| hm =  || rarity = 1
+| dmg    = 23
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = very slow
+| ut     = 39
+| ss     =
+| sell   = 3000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flintlock Pistol
+| wtype  = gun
+| hm =  || rarity = 1
+| dmg    = 10
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 15
+| ss     = 5
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 10000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flower of Fire
+| wtype  = magic
+| hm     = yes
+| rarity = 3
+| dmg    = 44
+| dtype  = magic
+| hta    = no
+| kb     = 5.5
+| speed  = very fast
+| ut     = 19
+| ss     = 6
+| sell   = 2000
+| mana   = 17
+| ammo   = mana
+| db     = On Fire!
+| time   = 5s
+| chance = 50%
+}}
+{{/weapons row
+| name   = Flower of Frost
+| wtype  = magic
+| hm     = yes
+| rarity = 6
+| dmg    = 50
+| dtype  = magic
+| hta    = no
+| kb     = 6.5
+| speed  = very fast
+| ut     = 19
+| ss     = 7
+| sell   = 2000
+| mana   = 17
+| ammo   = mana
+| db     = Frostburn
+| time   = 10s
+| chance = 50%
+}}
+{{/weapons row
+| name   = Flower Pow
+| wtype  = flail
+| hm =  || rarity = 7
+| dmg    = 52
+| dtype  = melee
+| hta    = no
+| kb     = 7.5
+| speed  = very slow
+| ut     = 39
+| ss     = 15.9
+| sell   = 60000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flying Dragon
+| wtype  = melee
+| hm = yes || rarity = 8
+| dmg    = 90
+| dmgtt  = It shoots shield shaped beams to obliterate your enemies. In addition, the projectiles travel through walls, produce light, and can pierce up to four enemies
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = fast
+| ut     = 25
+| ss     = 17
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Flying Knife
+| wtype  = projectile
+| hm     = yes
+| rarity = 6
+| dmg    = 40
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = very fast
+| ut     = 14
+| ss     = 17
+| sell   = 80000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Format_C
+| wtype  = yoyo
+| hm =  || rarity = 3
+| dmg    = 29
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 40000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Frost Daggerfish
+| wtype  = consumable
+| hm =  || rarity = 1
+| dmg    = 17
+| dtype  = thrown
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 13
+| ss     = 12.5
+| sell   = 16
+| mana   =
+| ammo   = Frost Daggerfish
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Frost Staff
+| wtype  = magic
+| hm =  || rarity = 5
+| dmg    = 43
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 19
+| ss     = 16
+| sell   = 100000
+| mana   = 14
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Frostbrand
+| wtype  = broadsword
+| hm =  || rarity = 5
+| dmg    = 49
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = fast
+| ut     = 22
+| ss     = 12
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Fruitcake Chakram
+| wtype  = boomerang
+| hm =  || rarity = 1
+| dmg    = 14
+| dtype  = melee
+| hta    = no
+| kb     = 8
+| speed  = very fast
+| ut     = 14
+| ss     = 11
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gatligator
+| wtype  = gun
+| hm =  || rarity = 4
+| dmg    = 21
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 1.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = insanely fast
+| ut     = 7
+| ss     = 8
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 70000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ghastly Glaive
+| wtype  = spear
+| hm = yes || rarity = 5
+| dmg    = 61
+| dmgtt  = Summons ghosts as it hits enemies
+| dtype  = melee
+| hta    = no
+| kb     = 7
+| speed  = average
+| ut     = 27
+| ss     = 42
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gold Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 25
+| ss     =
+| sell   = 1600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gold Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 11
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 25
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 1400
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gold Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 13
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 1800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gold Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 1600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gold Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gold Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 11
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 10
+| ss     =
+| sell   = 1400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Golden Shower
+| wtype  = magic
+| hm =  || rarity = 4
+| dmg    = 22*3
+| dmgtt  = 3-shot spray
+| dtype  = magic
+| hta    = yes
+| kb     = 4
+| speed  = very fast
+| ut     = 17
+| ss     = 10
+| sell   = 100000
+| mana   = 7
+| ammo   = mana
+| db     = Ichor_(debuff)
+| time   = 10s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Golem Fist
+| wtype  = flail
+| hm =  || rarity = 7
+| dmg    = 60
+| dtype  = melee
+| hta    = yes
+| kb     = 9
+| speed  = average
+| ut     = 29
+| ss     = 14
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gradient
+| wtype  = yoyo
+| hm =  || rarity = 3
+| dmg    = 34
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 40000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Grenade
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 60
+| dmgtt  = also deals 120 damage to other players including yourself
+| dtype  = thrown
+| hta    = no
+| kb     = 8
+| speed  = very slow
+| ut     = 44
+| ss     = 5.5
+| sell   = 15
+| mana   =
+| ammo   = Grenade
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Grenade Launcher
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 55
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 4
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 29
+| ss     = 10
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = rocket
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Gungnir
+| wtype  = spear
+| hm =  || rarity = 5
+| dmg    = 42
+| dtype  = melee
+| hta    = no
+| kb     = 6.4
+| speed  = fast
+| ut     = 21
+| ss     = 5.6
+| sell   = 40600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Hallowed Repeater
+| wtype  = repeater
+| hm =  || rarity = 4
+| dmg    = 39
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 2.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 18
+| ss     = 11
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 40000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Hammush
+| wtype  = hammer
+| hm =  || rarity = 7
+| dmg    = 26
+| dtype  = melee
+| hta    = yes
+| kb     = 7.5
+| speed  = average
+| ut     = 26
+| ss     =
+| sell   = 80000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Handgun
+| wtype  = gun
+| hm =  || rarity = 2
+| dmg    = 15
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 3
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 11
+| sstt   = plus the shoot speed of the ammo used
+| ss     = 10
+| sell   = 10000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Happy Grenade
+| wtype  = explosive
+| hm =  || rarity = 2
+| dmg    = 30
+| dtype  = thrown
+| hta    = no
+| kb     = 6
+| speed  = very fast
+| ut     = 19
+| ss     = 6
+| sell   = 50
+| mana   =
+| ammo   = Happy Grenade
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Harpoon
+| wtype  = flail
+| hm =  || rarity = 2
+| dmg    = 25
+| dtype  = ranged
+| hta    = yes
+| kb     = 6
+| speed  = average
+| ut     = 29
+| ss     = 11
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Heat Ray
+| wtype  = magic
+| hm =  || rarity = 7
+| dmg    = 55
+| dtype  = magic
+| hta    = yes
+| kb     = 3
+| speed  = very fast
+| ut     = 15
+| ss     = 15
+| sell   = 70000
+| mana   = 8
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Hel-Fire
+| wtype  = yoyo
+| hm =  || rarity = 4
+| dmg    = 41
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 40000
+| mana   =
+| ammo   =
+| db     = On Fire!
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Hellwing Bow
+| wtype  = bow
+| hm =  no
+| rarity = 3
+| dmg    = 20
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 13
+| ss     = 6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 40000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Holy Water
+| wtype  = consumable
+| hm =  || rarity = 3
+| dmg    = 20
+| dmgtt = No bonuses from armor
+| dtype  = thrown
+| hta    = no
+| kb     = 3
+| speed  = very fast
+| ut     = 14
+| ss     = 9
+| sell   = 40
+| mana   =
+| ammo   = Holy Water
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Hornet Staff
+| wtype  = summon
+| hm =  || rarity = 3
+| dmg    = 9
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = very fast
+| ut     = 19
+| ss     = 10
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ice Blade
+| wtype  = broadsword
+| hm =  || rarity = 1
+| dmg    = 17
+| dmgtt  = Plus shoots a bolt of ice which deals low dmg and gives off about as much light as an ice torch.
+| dtype  = melee
+| hta    = yes
+| kb     = 4.75
+| speed  = very fast
+| ut     = 19
+| ss     = 8
+| sell   = 4000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ice Boomerang
+| wtype  = boomerang
+| hm =  || rarity = 1
+| dmg    = 14
+| dtype  = melee
+| hta    = no
+| kb     = 8.5
+| speed  = very fast
+| ut     = 14
+| ss     = 11.5
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ice Bow
+| wtype  = bow
+| hm =  || rarity = 5
+| dmg    = 46
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 4.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 20
+| ss     = 10
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 35000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ice Rod
+| wtype  = magic
+| hm =  || rarity = 4
+| dmg    = 26
+| dtype  = magic
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 16
+| ss     = 12
+| sell   = 200000
+| mana   = 7
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ice Sickle
+| wtype  = broadsword
+| hm =  || rarity = 5
+| dmg    = 40
+| dtype  = melee
+| hta    = no
+| kb     = 5.5
+| speed  = fast
+| ut     = 24
+| ss     = 8
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Imp Staff
+| wtype  = summon
+| hm =  || rarity = 3
+| dmg    = 21
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = very slow
+| ut     = 35
+| ss     = 10
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Inferno Fork
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 65
+| dtype  = magic
+| hta    = no
+| kb     = 8
+| speed  = average
+| ut     = 29
+| ss     = 8
+| sell   = 60000
+| mana   = 18
+| ammo   = mana
+| db     = On Fire!
+| time   =
+| chance = 100%
+}}
+{{/weapons row
+| name   = Influx Waver
+| wtype  = broadsword
+| hm =  || rarity = 8
+| dmg    = 122*3
+| dmgtt  = includes the damage of sword beams
+| dtype  = melee
+| hta    = yes
+| kb     = 9
+| speed  = very fast
+| ut     = 19
+| ss     = 11
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Iron Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 5
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 26
+| ss     =
+| sell   = 320
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Iron Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 8
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 27
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 280
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Iron Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 10
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 20
+| ss     =
+| sell   = 360
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Iron Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 320
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Iron Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 5
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Iron Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 280
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Jack 'O Lantern Launcher
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = (60*1.06+25)
+| dmgtt  = +6% critical mod + Explosive Jack O' Lantern damage
+| dtype  = ranged
+| hta    = no
+| kb     = 5
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 29
+| ss     = 7
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 150000
+| mana   =
+| ammo   = Explosive Jack 'O Lantern
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Javelin
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 17
+| dmgtt  =
+| dtype  = thrown
+| hta    = no
+| kb     = 4.75
+| kbtt   =
+| speed  = average
+| ut     = 23
+| ss     = 11.5
+| sstt   =
+| sell   = 0
+| mana   =
+| ammo   = Javelin
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Katana
+| wtype  = broadsword
+| hm =  || rarity = 1
+| dmg    = 16*1.15
+| dmgtt  = +15% critical mod
+| dtype  = melee
+| hta    = yes
+| kb     = 3.5
+| speed  = fast
+| ut     = 21
+| ss     =
+| sell   = 5000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Keybrand
+| wtype  = broadsword
+| hm =  || rarity = 8
+| dmg    = 55
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = fast
+| ut     = 21
+| ss     =
+| sell   = 27600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = KO Cannon
+| wtype  = flail
+| hm =  || rarity = 4
+| dmg    = 35
+| dtype  = melee
+| hta    = yes
+| kb     = 6.5
+| speed  = average
+| ut     = 27
+| ss     = 15
+| sell   = 27000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Kraken
+| wtype  = yoyo
+| hm =  || rarity = 8
+| dmg    = 90
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 110000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Laser Drill
+| wtype  = Pickaxe + Axe
+| hm     = yes
+| rarity = 8
+| dmg    = 36
+| dtype  = melee
+| hta    = yes
+| kb     = 4.75
+| speed  = fast
+| ut     = 24
+| ss     = 36
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Laser Machinegun
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 60*2
+| dtype  = magic
+| hta    = yes
+| kb     =
+| speed  = insanely fast
+| ut     = 6
+| uttt   = 20 when starting to spin
+| ss     =
+| sell   = 100000
+| mana   = 6
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Laser Rifle
+| wtype  = magic
+| hm =  || rarity = 4
+| dmg    = 29
+| dtype  = magic
+| hta    = yes
+| kb     = 2.5
+| speed  = very fast
+| ut     = 19
+| ss     = 11
+| sell   = 30000
+| mana   = 8
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Last Prism
+| wtype  = magic
+| hm =  yes
+| rarity = 10
+| dmg    = 100*6
+| dtype  = magic
+| hta    = yes
+| kb     = 0
+| speed  = very fast
+| ut     = 10
+| ss     = 30
+| sell   = 100000
+| mana   = 12
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lead Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 480
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lead Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 9
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 26
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 420
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lead Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 11
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 20
+| ss     =
+| sell   = 540
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lead Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 28
+| ss     =
+| sell   = 480
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lead Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 18
+| ss     =
+| sell   = 600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lead Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 420
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Leaf Blower
+| wtype  = magic
+| hm =  || rarity = 7
+| dmg    = 42
+| dtype  = magic
+| hta    = yes
+| kb     = 3
+| speed  = insanely fast
+| ut     = 7
+| ss     = 11
+| sell   = 70000
+| mana   = 4
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Light Disc
+| wtype  = boomerang
+| hm =  || rarity = 5
+| dmg    = 57
+| dmgtt  = stacks up to 5
+| dtype  = melee
+| hta    = yes
+| kb     = 8
+| speed  = very fast
+| ut     = 14
+| ss     = 13
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lightning Aura Rod
+| wtype  = summon
+| hm = no || rarity = 3
+| dmg    = 4
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 10000
+| mana   = 5
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lightning Aura Cane
+| wtype  = summon
+| hm = yes || rarity = 5
+| dmg    = 11
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 50000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lightning Aura Staff
+| wtype  = summon
+| hm = yes || rarity = 8
+| dmg    = 34
+| dmgtt  = this weapon cannot be used outside of the Old One's Army event until the event has been defeated at least once in the current world.
+| dtype  = minion
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 1
+| sell   = 200000
+| mana   = 15
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Light's Bane
+| wtype  = broadsword
+| hm =  || rarity = 1
+| dmg    = 17
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 2700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Life Drain
+| wtype  = magic
+| hm     = yes
+| rarity = 5
+| dmg    = 30
+| dtype  = magic
+| hta    = yes
+| kb     = 2.5
+| speed  = very fast
+| ut     = 11
+| ss     = 10
+| sell   = 80000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lunar Flare
+| wtype  = magic
+| hm =  || rarity = 10
+| dmg    = 100*3
+| dmgtt  = 3-shot burst
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 10
+| ss     = 10
+| sell   = 100000
+| mana   = 13
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Lunar Portal Staff
+| wtype  = summon
+| hm =  || rarity = 10
+| dmg    = 50
+| dtype  = minion
+| hta    = no
+| kb     = 7.5
+| speed  = average
+| ut     = 29
+| ss     = 14
+| sell   = 100000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Magic Dagger
+| wtype  = magic
+| hm =  || rarity = 4
+| dmg    = 40
+| dtype  = magic
+| hta    = no
+| kb     = 3.75
+| speed  = insanely fast
+| ut     = 8
+| ss     = 12
+| sell   = 50000
+| mana   = 6
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+
+{{/weapons row
+| name   = Magic Missile
+| wtype  = magic
+| hm =  || rarity = 2
+| dmg    = 23
+| dtype  = magic
+| hta    = no
+| kb     = 5.5
+| speed  = very fast
+| ut     = 16
+| ss     = 6
+| sell   = 2000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Magical Harp
+| wtype  = magic
+| hm =  || rarity = 5
+| dmg    = 32
+| dtype  = magic
+| hta    = yes
+| kb     = 0
+| speed  = very fast
+| ut     = 12
+| ss     = 4.5
+| sell   = 50000
+| mana   = 4
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Magnet Sphere
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 48
+| dtype  = magic
+| hta    = no
+| kb     = 6
+| speed  = very fast
+| ut     = 19
+| ss     = 2
+| sell   = 100000
+| mana   = 14
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Malaise
+| wtype  = yoyo
+| hm =  || rarity = 1
+| dmg    = 16
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mandible Blade
+| wtype  = broadsword
+| hm =  || rarity = 2
+| dmg    = 14
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = very fast
+| ut     = 17
+| ss     =
+| sell   = 1000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Marrow
+| wtype  = bow
+| hm =  || rarity = 5
+| dmg    = 40*1.05
+| dmgtt  = +5% critical mod / does not include ammo
+| dtype  = ranged
+| hta    = no
+| kb     = 4.7
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 18
+| ss     = 11
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 5400
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Medusa Head
+| wtype  = magic
+| hm     = yes
+| rarity = 4
+| dmg    = 45
+| dtype  = magic
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 19
+| ss     = 1
+| sell   = 10000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Megashark
+| wtype  = gun
+| hm =  || rarity = 5
+| dmg    = 23
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 1
+| kbtt   = plus the knockback of the ammo used
+| speed  = insanely fast
+| ut     = 7
+| ss     = 10
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 60000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Meowmere
+| wtype  = broadsword
+| hm =  || rarity = 10
+| dmg    = 200*2
+| dmgtt  = includes the damage of sword beams
+| dtype  = melee
+| hta    = yes
+| kb     = 4
+| speed  = very fast
+| ut     = 16
+| ss     = 12
+| sell   = 200000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Meteor Hamaxe
+| wtype  = hamaxe
+| hm =  || rarity = 1
+| dmg    = 20
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 3000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Meteor Staff
+| wtype  = magic
+| hm     = yes
+| rarity = 5
+| dmg    = 50
+| dtype  = magic
+| hta    = yes
+| kb     = 4.5
+| speed  = very fast
+| ut     = 9
+| ss     = 10
+| sell   = 20000
+| mana   = 13
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Minishark
+| wtype  = gun
+| hm =  || rarity = 2
+| dmg    = 6
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = insanely fast
+| ut     = 8
+| ss     = 7
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 70000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Molotov Cocktail
+| wtype  = explosive
+| hm =  || rarity = 1
+| dmg    = 40
+| dmgtt  =
+| dtype  = thrown
+| hta    = no
+| kb     = 8
+| kbtt   =
+| speed  = average
+| ut     = 29
+| ss     = 6.5
+| sstt   =
+| sell   = 15
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Molten Fury
+| wtype  = bow
+| hm =  || rarity = 3
+| dmg    = 29
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 24
+| ss     = 8
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 5400
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Molten Hamaxe
+| wtype  = hamaxe
+| hm =  || rarity = 3
+| dmg    = 20
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 26
+| ss     =
+| sell   = 3000
+| mana   =
+| ammo   =
+| db     = On Fire!
+| time   = 3s
+| chance = 20%
+}}
+{{/weapons row
+| name   = Molten Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 3
+| dmg    = 12
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     = On Fire!
+| time   = 3s
+| chance = 10%
+}}
+{{/weapons row
+| name   = Muramasa
+| wtype  = broadsword
+| hm =  || rarity = 2
+| dmg    = 18
+| dtype  = melee
+| hta    = yes
+| kb     = 1
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mushroom Spear
+| wtype  = spear
+| hm =  || rarity = 7
+| dmg    = 60
+| dtype  = melee
+| hta    = no
+| kb     = 6.2
+| speed  = very slow
+| ut     = 39
+| ss     = 5.5
+| sell   = 140000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Musket
+| wtype  = gun
+| hm =  || rarity = 1
+| dmg    = 25
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 4.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = slow
+| ut     = 35
+| ss     = 8.5
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mythril Chainsaw
+| wtype  = chainsaw
+| hm =  || rarity = 4
+| dmg    = 29
+| dtype  = melee
+| hta    = yes
+| kb     = 3
+| speed  = fast
+| ut     = 24
+| ss     = 40
+| sell   = 16200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mythril Drill
+| wtype  = drill
+| hm =  || rarity = 4
+| dmg    = 15
+| dtype  = melee
+| hta    = yes
+| kb     = 0
+| speed  = fast
+| ut     = 24
+| ss     = 32
+| sell   = 16200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mythril Halberd
+| wtype  = spear
+| hm =  || rarity = 4
+| dmg    = 35
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = average
+| ut     = 25
+| ss     = 4.5
+| sell   = 13500
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mythril Pickaxe
+| wtype  = pickaxe
+| hm     = yes
+| rarity = 4
+| dmg    = 14
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 16200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mythril Repeater
+| wtype  = repeater
+| hm =  || rarity = 4
+| dmg    = 34
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 22
+| ss     = 9.5
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 18000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mythril Sword
+| wtype  = broadsword
+| hm =  || rarity = 4
+| dmg    = 39
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = average
+| ut     = 25
+| ss     =
+| sell   = 20700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Mythril Waraxe
+| wtype  = axe
+| hm     = yes
+| rarity = 4
+| dmg    = 39
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 16200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nailgun
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 85+30
+| dmgtt  = plus damage of Nails
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 14
+| ss     = 10
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 100000
+| mana   =
+| ammo   = Nail
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nebula Arcanum
+| wtype  = magic
+| hm =  || rarity = 10
+| dmg    = 70
+| dtype  = magic
+| hta    = yes
+| kb     = 1
+| speed  = average
+| ut     = 30
+| ss     = 7
+| sell   = 100000
+| mana   = 30
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nebula Blaze
+| wtype  = magic
+| hm =  || rarity = 10
+| dmg    = 130
+| dtype  = magic
+| hta    = yes
+| kb     = 1
+| speed  = very fast
+| ut     = 15
+| ss     = 6
+| sell   = 100000
+| mana   = 18
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nebula Hamaxe
+| wtype  = hamaxe
+| hm =  || rarity = 10
+| dmg    = 60
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nebula Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 10
+| dmg    = 80
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nettle Burst
+| wtype  = magic
+| hm =  || rarity = 7
+| dmg    = 25
+| dtype  = magic
+| hta    = yes
+| kb     = 1
+| speed  = fast
+| ut     = 24
+| ss     = 32
+| sell   = 40000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Night's Edge
+| wtype  = broadsword
+| hm =  || rarity = 3
+| dmg    = 42
+| dtype  = melee
+| hta    = no
+| kb     = 4.5
+| speed  = average
+| ut     = 26
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nightmare Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 1
+| dmg    = 9
+| dtype  = melee
+| hta    = yes
+| kb     = 3
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 3600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Nimbus Rod
+| wtype  = rain
+| hm =  || rarity = 6
+| dmg    = 36
+| dmgtt  = different to most other weapons
+| dtype  = magic
+| hta    = no
+| kb     = 0
+| speed  = fast
+| ut     = 21
+| ss     = 16
+| sell   = 35000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = North Pole
+| wtype  = spear
+| hm =  || rarity = 7
+| dmg    = 73
+| dtype  = melee
+| hta    = no
+| kb     = 6.7
+| speed  = average
+| ut     = 24
+| ss     = 4.75
+| sell   = 36000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Obsidian Swordfish
+| wtype  = spear
+| hm =  || rarity = 7
+| dmg    = 70*1.2
+| dmgtt  = +20% critical mod
+| dtype  = melee
+| hta    = no
+| kb     = 6.5
+| speed  = very fast
+| ut     = 19
+| ss     = 4
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Onyx Blaster
+| wtype  = gun
+| hm =  || rarity = 4
+| dmg    = 28*4
+| dmgtt  = plus the damage of the ammo used; 4-shot spread
+| dtype  = ranged
+| hta    = no
+| kb     = 6.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very slow
+| ut     = 44
+| ss     = 7
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 50000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Optic Staff
+| wtype  = summon
+| hm =  || rarity = 5
+| dmg    = 30
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = very slow
+| ut     = 35
+| ss     = 10
+| sell   = 20000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Orichalcum Chainsaw
+| wtype  = chainsaw
+| hm =  || rarity = 4
+| dmg    = 31
+| dtype  = melee
+| hta    = yes
+| kb     = 3.75
+| speed  = fast
+| ut     = 24
+| ss     = 40
+| sell   = 19800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Orichalcum Drill
+| wtype  = drill
+| hm =  || rarity = 4
+| dmg    = 17
+| dtype  = melee
+| hta    = yes
+| kb     = 0
+| speed  = fast
+| ut     = 24
+| ss     = 32
+| sell   = 19800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Orichalcum Halberd
+| wtype  = spear
+| hm =  || rarity = 4
+| dmg    = 36
+| dtype  = melee
+| hta    = no
+| kb     = 5.5
+| speed  = fast
+| ut     = 24
+| ss     = 5
+| sell   = 16500
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Orichalcum Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 4
+| dmg    = 17
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 19800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Orichalcum Repeater
+| wtype  = repeater
+| hm =  || rarity = 4
+| dmg    = 38
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 21
+| ss     = 9.75
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 22000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Orichalcum Sword
+| wtype  = broadsword
+| hm =  || rarity = 4
+| dmg    = 41
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = average
+| ut     = 25
+| ss     =
+| sell   = 25300
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Orichalcum Waraxe
+| wtype  = axe
+| hm =  || rarity = 4
+| dmg    = 41
+| dtype  = melee
+| hta    = yes
+| kb     = 6.5
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 19800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Paintball Gun
+| wtype  = gun
+| hm =  || rarity = 2
+| dmg    = 12
+| dtype  = ranged
+| hta    = no
+| kb     = 1.25
+| speed  = fast
+| ut     = 23
+| ss     = 10
+| sell   = 5000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Paladin's Hammer
+| wtype  = boomerang
+| hm =  || rarity = 8
+| dmg    = 90
+| dtype  = melee
+| hta    = no
+| kb     = 9
+| speed  = very fast
+| ut     = 14
+| ss     = 14
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palladium Chainsaw
+| wtype  = chainsaw
+| hm =  || rarity = 4
+| dmg    = 26
+| dtype  = melee
+| hta    = yes
+| kb     = 2.9
+| speed  = fast
+| ut     = 24
+| ss     = 40
+| sell   = 14400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palladium Drill
+| wtype  = drill
+| hm =  || rarity = 4
+| dmg    = 12
+| dtype  = melee
+| hta    = yes
+| kb     = 0
+| speed  = fast
+| ut     = 24
+| ss     = 32
+| sell   = 14400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palladium Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 4
+| dmg    = 12
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 14400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palladium Pike
+| wtype  = spear
+| hm =  || rarity = 4
+| dmg    = 32
+| dtype  = melee
+| hta    = no
+| kb     = 4.5
+| speed  = average
+| ut     = 26
+| ss     = 4.4
+| sell   = 12000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palladium Repeater
+| wtype  = repeater
+| hm =  || rarity = 4
+| dmg    = 34
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 1.75
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 23
+| ss     = 9.25
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 16000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palladium Sword
+| wtype  = broadsword
+| hm =  || rarity = 4
+| dmg    = 36
+| dtype  = melee
+| hta    = yes
+| kb     = 4.75
+| speed  = average
+| ut     = 24
+| ss     =
+| sell   = 18400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palladium Waraxe
+| wtype  = axe
+| hm =  || rarity = 4
+| dmg    = 36
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 14400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palm Wood Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 6
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 28
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pearlwood Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 9
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 26
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palm Wood Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 4
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = slow
+| ut     = 32
+| ss     =
+| sell   = 10
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Palm Wood Sword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 20
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pearlwood Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 28
+| ss     =
+| sell   = 10
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pearlwood Sword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 11
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 20
+| ss     =
+| sell   = 20
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Phantasm
+| wtype  = bow
+| hm =  yes
+| rarity = 10
+| dmg    = 50*4*2
+| dmgtt  = plus the damage of the ammo used, 4-shot burst, plus damage of second homing volley
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 12
+| ss     = 20
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 100000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Phantom Phoenix
+| wtype  = bow
+| hm =  yes
+| rarity = 5
+| dmg    = 24
+| dmgtt  = plus the damage of the ammo used, it fires multiple arrows at a time and also fires a large phoenix with a waving arc every fourth shot. The phoenix explodes on contact, but does not destroy Tiles.
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 19
+| ss     = 20
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 10000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Phaseblades
+| wtype  = broadsword
+| hm =  || rarity = 1
+| dmg    = 21
+| dtype  = melee
+| hta    = no
+| kb     = 3
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Phasesabers
+| wtype  = broadsword
+| hm =  || rarity = 4
+| dmg    = 41
+| dtype  = melee
+| hta    = yes
+| kb     = 3
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Phoenix Blaster
+| wtype  = gun
+| hm =  || rarity = 3
+| dmg    = 23
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 11
+| ss     = 13
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 10000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pickaxe Axe
+| wtype  = Pickaxe + Axe
+| hm =  || rarity = 4
+| dmg    = 35
+| dtype  = melee
+| hta    = yes
+| kb     = 4.75
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 44000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Picksaw
+| wtype  = Pickaxe + Axe
+| hm =  || rarity = 7
+| dmg    = 34
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = fast
+| ut     = 15
+| ss     =
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Piranha Gun
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 33
+| dtype  = ranged
+| hta    = yes
+| kb     = 1
+| speed  = average
+| ut     = 29
+| ss     = 14
+| sell   = 55000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pirate Staff
+| wtype  = summon
+| hm =  || rarity = 5
+| dmg    = 32
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = very slow
+| ut     = 35
+| ss     = 10
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Platinum Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 24
+| ss     =
+| sell   = 2400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Platinum Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 13
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 24
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 2100
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Platinum Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 15
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 18
+| ss     =
+| sell   = 2700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Platinum Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 10
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 26
+| ss     =
+| sell   = 2400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Platinum Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 18
+| ss     =
+| sell   = 3000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Platinum Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 13
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 9
+| ss     =
+| sell   = 2100
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Poison Staff
+| wtype  = magic
+| hm =  || rarity = 6
+| dmg    = 48*4
+| dmgtt  = 4-shot spread
+| dtype  = magic
+| hta    = yes
+| kb     = 5.6
+| speed  = slow
+| ut     = 35
+| ss     = 13.5
+| sell   = 40000
+| mana   = 22
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Poisoned Knife
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 13
+| dtype  = thrown
+| hta    = no
+| kb     = 2
+| speed  = very fast
+| ut     = 14
+| ss     = 11
+| sell   = 12
+| mana   =
+| ammo   = Poisoned Knife
+| db     = Poisoned
+| time   = 10s
+| chance = 50%
+}}
+{{/weapons row
+| name   = Possessed Hatchet
+| wtype  = boomerang
+| hm =  || rarity = 7
+| dmg    = 90
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 14
+| ss     = 12
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Proximity Mine Launcher
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 45
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 4
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 29
+| ss     = 11
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 70000
+| mana   =
+| ammo   = rocket
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Psycho Knife
+| wtype  = melee
+| hm     = yes
+| rarity = 8
+| dmg    = 70
+| dtype  = melee
+| hta    = yes
+| kb     = 3.5
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pulse Bow
+| wtype  = bow
+| hm =  || rarity = 8
+| dmg    = 65*1.07
+| dmgtt  = +7% critical mod / does not include ammo
+| dtype  = ranged
+| hta    = yes
+| kb     = 3
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 21
+| ss     = 7.75
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 90000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Purple Clubberfish
+| wtype  = broadsword
+| hm =  || rarity = 1
+| dmg    = 24
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pwnhammer
+| wtype  = hammer
+| hm =  || rarity = 4
+| dmg    = 26
+| dtype  = melee
+| hta    = yes
+| kb     = 7.5
+| speed  = average
+| ut     = 26
+| ss     =
+| sell   = 7800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Pygmy Staff
+| wtype  = summon
+| hm =  || rarity = 7
+| dmg    = 29
+| dtype  = minion
+| hta    = no
+| kb     = 3
+| speed  = average
+| ut     = 27
+| ss     = 10
+| sell   = 21600
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Queen Spider Staff
+| wtype  = summon
+| hm =  || rarity = 4
+| dmg    = 19
+| dtype  = minion
+| hta    = no
+| kb     = 7.5
+| speed  = average
+| ut     = 29
+| ss     = 14
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     = Venom
+| time   = 4-7s
+| chance =
+}}
+{{/weapons row
+| name   = Rainbow Crystal Staff
+| wtype  = summon
+| hm =  || rarity = 10
+| dmg    = 150
+| dtype  = minion
+| hta    = no
+| kb     = 7.5
+| speed  = average
+| ut     = 29
+| ss     = 14
+| sell   = 100000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rainbow Gun
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 45
+| dtype  = magic
+| hta    = no
+| kb     = 2
+| speed  = very slow
+| ut     = 39
+| ss     = 16
+| sell   = 70000
+| mana   = 20
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rainbow Rod
+| wtype  = magic
+| hm =  || rarity = 5
+| dmg    = 72
+| dtype  = magic
+| hta    = no
+| kb     = 6
+| speed  = very fast
+| ut     = 18
+| ss     = 6
+| sell   = 40000
+| mana   = 18
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rally
+| wtype  = yoyo
+| hm =  || rarity = 1
+| dmg    = 14
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 5000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Raven Staff
+| wtype  = summon
+| hm =  || rarity = 8
+| dmg    = 34
+| dtype  = minion
+| hta    = no
+| kb     = 3
+| speed  = average
+| ut     = 27
+| ss     = 10
+| sell   = 20000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Razorblade Typhoon
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 60
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 19
+| ss     = 6
+| sell   = 2000
+| mana   = 18
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Razorpine
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 48*3
+| dmgtt  = 3-shot spread
+| dtype  = magic
+| hta    = yes
+| kb     = 3.25
+| speed  = insanely fast
+| ut     = 7
+| ss     = 12
+| sell   = 50000
+| mana   = 5
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Reaver Shark
+| wtype  = pickaxe
+| hm =  || rarity = 3
+| dmg    = 16
+| dtype  = melee
+| hta    = yes
+| kb     = 3
+| speed  = fast
+| ut     = 21
+| ss     =
+| sell   = 15000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Red Ryder
+| wtype  = gun
+| hm =  || rarity = 1
+| dmg    = 20
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 3.75
+| kbtt   = plus the knockback of the ammo used
+| speed  = very slow
+| ut     = 37
+| ss     = 8
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Red's Throw
+| wtype  = yoyo
+| hm     = yes
+| rarity = 9
+| dmg    = 70
+| dtype  = melee
+| hta    = yes
+| kb     = 8.5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 0
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Revolver
+| wtype  = gun
+| hm =  || rarity = 2
+| dmg    = 20*1.05
+| dmgtt  = +5% critical mod / does not include ammo
+| dtype  = ranged
+| hta    = no
+| kb     = 4
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 21
+| ss     = 16
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rich Mahogany Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 6
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 28
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rich Mahogany Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 4
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = slow
+| ut     = 32
+| ss     =
+| sell   = 10
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rich Mahogany Sword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 20
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rocket Launcher
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 50
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 4
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 29
+| ss     = 5
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = rocket
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rockfish
+| wtype  = hammer
+| hm =  || rarity = 3
+| dmg    = 24
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = fast
+| ut     = 23
+| ss     =
+| sell   = 15000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Rotten Egg
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 10
+| dtype  = thrown
+| hta    = no
+| kb     = 6.5
+| speed  = very fast
+| ut     = 18
+| ss     = 9
+| sell   = 0
+| mana   =
+| ammo   = Rotten Egg
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Ruby Staff
+| wtype  = magic
+| hm =  || rarity = 1
+| dmg    = 21
+| dtype  = magic
+| hta    = yes
+| kb     = 4.75
+| speed  = average
+| ut     = 27
+| ss     = 9
+| sell   = 4000
+| mana   = 7
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = S.D.M.G.
+| wtype  = gun
+| hm =  || rarity = 10
+| dmg    = 77*1.1
+| dmgtt  = +10% critical mod / does not include ammo
+| dtype  = ranged
+| hta    = yes
+| kb     = 2.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = insanely fast
+| ut     = 5
+| ss     = 12
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 150000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sandgun
+| wtype  = gun
+| hm =  || rarity = 2
+| dmg    = 30
+| dmgtt  = actually deals 29 damage because the damage of Sand is set at -1
+| dtype  = ranged
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 15
+| ss     = 12
+| sell   = 2000
+| mana   =
+| ammo   = Sand
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sapphire Staff
+| wtype  = magic
+| hm =  || rarity = 1
+| dmg    = 17
+| dtype  = magic
+| hta    = no
+| kb     = 4
+| speed  = slow
+| ut     = 33
+| ss     = 7.5
+| sell   = 2000
+| mana   = 5
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sawtooth Shark
+| wtype  = chainsaw
+| hm =  || rarity = 3
+| dmg    = 13
+| dtype  = melee
+| hta    = yes
+| kb     = 2.25
+| speed  = fast
+| ut     = 24
+| ss     = 48
+| sell   = 15000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Scourge of the Corruptor
+| wtype  = Projectile_melee_weapons#Only_Projectile{{!}}projectile
+| hm =  || rarity = 8
+| dmg    = 64*2.5
+| dmgtt    = includes the damage of the mini-eaters
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 20
+| ss     = 14
+| sell   = 200000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Seedler
+| wtype  = broadsword
+| hm     = yes
+| rarity = 5
+| dmg    = 50
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = fast
+| ut     = 22
+| ss     = 12
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shadewood Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 8
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 27
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shadewood Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 10
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shadewood Sword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 10
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 20
+| ss     =
+| sell   = 20
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shadowbeam Staff
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 53
+| dtype  = magic
+| hta    = yes
+| kb     = 3.25
+| speed  = fast
+| ut     = 15
+| ss     = 6
+| sell   = 60000
+| mana   = 7
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shadowflame Bow
+| wtype  = bow
+| hm =  || rarity = 5
+| dmg    = 47*1.03
+| dmgtt  = plus the damage of the ammo used, +3% critical mod
+| dtype  = ranged
+| hta    = yes
+| kb     = 4.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 19
+| ss     = 11
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = arrows
+| db     = Shadowflame
+| time   = 3.5 s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Shadowflame Hex Doll
+| wtype  = magic
+| hm =  || rarity = 5
+| dmg    = 40*6*1.03
+| dmgtt  = 3-shot burst, increases to 9 over time, +3% critical mod
+| dtype  = magic
+| hta    = yes
+| kb     = 3.75
+| speed  = very fast
+| ut     = 11
+| ss     = 9
+| sell   = 20000
+| mana   = 6
+| ammo   =
+| db     = Shadowflame
+| time   = 6 s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Shadowflame Knife
+| wtype  = Projectile_melee_weapons#Only_Projectile{{!}}projectile
+| hm =  || rarity = 5
+| dmg    = 38*1.03
+| dmgtt  = +3% critical mod
+| dtype  = melee
+| hta    = yes
+| kb     = 5.75
+| speed  = very fast
+| ut     = 11
+| ss     = 13
+| sell   = 20000
+| mana   =
+| ammo   =
+| db     = Shadowflame
+| time   = 2 s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Sharanga || extra = {{console icon}}
+| wtype  = bow
+| hm =  || rarity = 5
+| dmg    = 35
+| dtype  = ranged
+| hta    = no
+| kb     = 2
+| speed  = very fast
+| ut     = 15
+| ss     = ??+0.5
+| sell   = 12000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shotgun
+| wtype  = gun
+| hm =  || rarity = 4
+| dmg    = 23*4
+| dmgtt  = plus the damage of the ammo used; 4-shot spread
+| dtype  = ranged
+| hta    = no
+| kb     = 6.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very slow
+| ut     = 44
+| ss     = 6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 50000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shroomite Digging Claw
+| wtype  = Pickaxe + Axe
+| hm =  || rarity = 8
+| dmg    = 45
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Shuriken
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 10
+| dtype  = thrown
+| hta    = no
+| kb     = 0
+| speed  = very fast
+| ut     = 14
+| ss     = 9
+| sell   = 4
+| mana   =
+| ammo   = Shuriken
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sickle
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = yes
+| kb     = 2.25
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 1200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Silver Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 25
+| ss     =
+| sell   = 800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Silver Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 9
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 26
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 700
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Silver Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 11
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 20
+| ss     =
+| sell   = 900
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Silver Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 28
+| ss     =
+| sell   = 800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Silver Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 18
+| ss     =
+| sell   = 1000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Silver Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sky Dragon's Fury
+| wtype  = melee
+| hm = yes || rarity = 8
+| dmg    = 70
+| dmgtt  = the Sky Dragon's Fury has an alternate attack in which it swings around in front of the player uncontrollably and randomly shooting projectiles
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = average
+| ut     = 30
+| ss     = 24
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sky Fracture
+| wtype  = magic
+| hm =  || rarity = 4
+| dmg    = 38
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 11
+| ss     = 14
+| sell   = 100000
+| mana   = 14
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Slap Hand
+| wtype  = Broadsword
+| hm     = yes
+| rarity = 4
+| dmg    = 35
+| dtype  = melee
+| hta    = yes
+| kb     = 20
+| speed  = very fast
+| ut     = 20
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sleepy Octopod
+| wtype  = melee
+| hm = yes || rarity = 5
+| dmg    = 40
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 30
+| ss     =
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Slime Staff
+| wtype  = summon
+| hm =  || rarity = 4
+| dmg    = 8
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = average
+| ut     = 27
+| ss     = 10
+| sell   = 20000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sniper Rifle
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 185*1.25
+| dmgtt  = +25% critical mod / does not include ammo
+| dtype  = ranged
+| hta    = no
+| kb     = 8
+| kbtt   = plus the knockback of the ammo used
+| speed  = slow
+| ut     = 35
+| ss     = 16
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Snowball
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 4
+| dtype  = thrown
+| hta    = no
+| kb     = 4.5
+| speed  = very fast
+| ut     = 18
+| ss     = 7
+| sell   = 0
+| mana   =
+| ammo   = snowball
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Snowball Cannon
+| wtype  = cannon
+| hm =  || rarity = 1
+| dmg    = 4
+| dtype  = ranged
+| hta    = yes
+| kb     = 4.5
+| speed  = very fast
+| ut     = 17
+| ss     = 11
+| sell   = 20000
+| mana   =
+| ammo   = snowball
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Snowman Cannon
+| wtype  = cannon
+| hm =  || rarity = 8
+| dmg    = 67
+| dtype  = ranged
+| hta    = yes
+| kb     = 4
+| speed  = very fast
+| ut     = 14
+| ss     = 15
+| sell   = 200000
+| mana   =
+| ammo   = rocket
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Solar Eruption
+| wtype  = flail
+| hm =  || rarity = 10
+| dmg    = 105
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = fast
+| ut     = 19
+| ss     = 24
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     = Daybroken
+| time   = 15 s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Solar Flare Hamaxe
+| wtype  = hamaxe
+| hm =  || rarity = 10
+| dmg    = 60
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Solar Flare Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 10
+| dmg    = 80
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Space Gun
+| wtype  = magic
+| hm =  || rarity = 1
+| dmg    = 19
+| dtype  = magic
+| hta    = yes
+| kb     = 0.75
+| speed  = very fast
+| ut     = 16
+| ss     = 10
+| sell   = 2000
+| mana   = 7
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Spear
+| wtype  = spear
+| hm =  || rarity = 0
+| dmg    = 8
+| dtype  = melee
+| hta    = no
+| kb     = 6.5
+| speed  = slow
+| ut     = 30
+| ss     = 3.7
+| sell   = 200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Spectre Hamaxe
+| wtype  = hamaxe
+| hm =  || rarity = 8
+| dmg    = 60
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Spectre Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 8
+| dmg    = 32
+| dtype  = melee
+| hta    = yes
+| kb     = 5.25
+| speed  = fast
+| ut     = 23
+| ss     =
+| sell   = 43200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Spectre Staff
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 68
+| dtype  = magic
+| hta    = yes
+| kb     = 6
+| speed  = fast
+| ut     = 23
+| ss     = 6
+| sell   = 60000
+| mana   = 11
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Spider Staff
+| wtype  = summon
+| hm =  || rarity = 4
+| dmg    = 25
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = very slow
+| ut     = 35
+| ss     = 10
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     = Venom
+| time   = 2-5s
+| chance =
+}}
+{{/weapons row
+| name   = Spiky Ball
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 15
+| dtype  = thrown
+| hta    = no
+| kb     = 1
+| speed  = very fast
+| ut     = 14
+| ss     = 5
+| sell   = 16
+| mana   =
+| ammo   = Spiky Ball
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Spirit Flame
+| wtype  = magic
+| hm =  || rarity = 4
+| dmg    = 85
+| dtype  = magic
+| hta    = no
+| kb     = 5
+| speed  = average
+| ut     = 29
+| ss     = 3
+| sell   = 10000
+| mana   = 18
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Staff of Earth
+| wtype  = magic
+| hm =  || rarity = 7
+| dmg    = 45
+| dtype  = magic
+| hta    = no
+| kb     = 7.5
+| speed  = very slow
+| ut     = 39
+| ss     = 11
+| sell   = 100000
+| mana   = 17
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Staff of Regrowth
+| wtype  = broadsword
+| hm =  || rarity = 3
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 3
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Staff of the Frost Hydra
+| wtype  = summon
+| hm =  || rarity = 8
+| dmg    = 100
+| dtype  = minion
+| hta    = no
+| kb     = 7.5
+| speed  = average
+| ut     = 29
+| ss     = 14
+| sell   = 200000
+| mana   = 20
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Stake Launcher
+| wtype  = repeater
+| hm =  || rarity = 9
+| dmg    = (75*1.1+25)
+| dmgtt  = +10% critical mod + Stake damage
+| dtype  = ranged
+| hta    = yes
+| kb     = 6.5
+| speed  = average
+| ut     = 25
+| ss     = 9
+| sell   = 150000
+| mana   =
+| ammo   = Stake
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Star Anise
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 14
+| dtype  = thrown
+| hta    = no
+| kb     = 0
+| speed  = very fast
+| ut     = 14
+| ss     = 12
+| sell   = 5
+| mana   =
+| ammo   = Star Anise
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Star Cannon
+| wtype  = gun
+| hm =  || rarity = 2
+| dmg    = 55
+| dtype  = ranged
+| hta    = yes
+| kb     = 0
+| speed  = very fast
+| ut     = 11
+| ss     = 14
+| sell   = 100000
+| mana   =
+| ammo   = Fallen Star
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Stardust Cell Staff
+| wtype  = summon
+| hm =  || rarity = 10
+| dmg    = 60
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = very slow
+| ut     = 35
+| ss     = 10
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     = Celled
+| time   =
+| chance = 100%
+}}
+{{/weapons row
+| name   = Stardust Dragon Staff
+| wtype  = summon
+| hm =  || rarity = 10
+| dmg    = 60
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = very slow
+| ut     = 35
+| ss     = 10
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Stardust Hamaxe
+| wtype  = hamaxe
+| hm =  || rarity = 10
+| dmg    = 60
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Stardust Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 10
+| dmg    = 80
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Starfury
+| wtype  = broadsword
+| hm =  || rarity = 2
+| dmg    = 22
+| dmgtt  = also summons 3 stars from the sky which deal 15 damage per hit
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 19
+| ss     = 20
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Star Wrath
+| wtype  = broadsword
+| hm =  || rarity = 9
+| dmg    = 110+(220*3)
+| dmgtt  = also summons 3 stars from the sky which deal 220 damage per hit
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 16
+| ss     = 8
+| sell   = 200000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sticky Bomb
+| wtype  = explosive
+| hm =  || rarity = 0
+| dmg    = 100
+| dmgtt  = also deals 200 damage to other players including yourself
+| dtype  = explosion
+| hta    = no
+| kb     = 10
+| speed  = fast
+| ut     = 24
+| ss     = 5
+| sell   = 100
+| mana   =
+| ammo   = Sticky Bomb
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sticky Grenade
+| wtype  = explosive
+| hm =  || rarity = 0
+| dmg    = 60
+| dtype  = thrown
+| hta    = no
+| kb     = 8
+| speed  = very slow
+| ut     = 44
+| ss     = 5.5
+| sell   = 15
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Stylish Scissors
+| wtype  = Broadsword
+| hm =  || rarity = 2
+| dmg    = 14
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 5000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Stynger
+| wtype  = gun
+| hm =  || rarity = 7
+| dmg    = 43
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 5
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 21
+| ss     = 9
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 70000
+| mana   =
+| ammo   = Stynger Bolts
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Sunfury
+| wtype  = flail
+| hm =  || rarity = 3
+| dmg    = 33
+| dtype  = melee
+| hta    = no
+| kb     = 7
+| speed  = very slow
+| ut     = 44
+| ss     = 12
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     = On Fire!
+| time   = 3s
+| chance = 25%
+}}
+{{/weapons row
+| name   = Swordfish
+| wtype  = spear
+| hm =  || rarity = 2
+| dmg    = 16
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 19
+| ss     = 4
+| sell   = 5000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tactical Shotgun
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 29*6
+| dmgtt  = plus the damage of the ammo used; 6-shot spread
+| dtype  = ranged
+| hta    = yes
+| kb     = 7
+| kbtt   = plus the knockback of the ammo used
+| speed  = slow
+| ut     = 33
+| ss     = 6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tempest Staff
+| wtype  = summon
+| hm =  || rarity = 8
+| dmg    = 50
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = slow
+| ut     = 35
+| ss     = 10
+| sell   = 50000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tendon Bow
+| wtype  = bow
+| hm =  || rarity = 1
+| dmg    = 19
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 1
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 29
+| ss     = 6.7
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 3600
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Terra Blade
+| wtype  = broadsword
+| hm =  || rarity = 8
+| dmg    = 95*2.25
+| dmgtt    = includes the damage of sword beams
+| dtype  = melee
+| hta    = yes
+| kb     = 6.5
+| speed  = very fast
+| ut     = 16
+| ss     = 12
+| sell   = 200000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Terrarian
+| wtype  = yoyo
+| hm =  || rarity = 8
+| dmg    = 190/1.04*1.14
+| dmgtt  = +10% critical mod
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 10
+| uttt   = item use time is 25, but as all piercing weapons Terrarian's body and projectiles hit 6 times per second (once every 10 frames) at best
+| ss     = 16
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Axe
+| wtype  = hamaxe
+| hm =  || rarity = 8
+| dmg    = 72
+| dtype  = melee
+| hta    = yes
+| kb     = 7.25
+| speed  = fast
+| ut     = 22
+| ss     =
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Bee's Knees
+| wtype  = Bow
+| hm =  || rarity = 3
+| dmg    = 26
+| dtype  = ranged
+| hta    = no
+| kb     = 3
+| speed  = fast
+| ut     = 22
+| ss     = 8
+| sell   = 5400
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Breaker
+| wtype  = hammer
+| hm =  || rarity = 1
+| dmg    = 24
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = very slow
+| ut     = 44
+| ss     =
+| sell   = 3000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Eye of Cthulhu
+| wtype  = yoyo
+| hm =  || rarity = 8
+| dmg    = 115
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 110000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Horseman's Blade
+| wtype  = broadsword
+| hm =  || rarity = 8
+| dmg    = 75*2.5
+| dmgtt  = including the pumpkin projectile damage
+| dtype  = melee
+| hta    = yes
+| kb     = 7.5
+| speed  = average
+| ut     = 25
+| ss     =
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Meatball
+| wtype  = flail
+| hm =  || rarity = 1
+| dmg    = 16
+| dtype  = melee
+| hta    = no
+| kb     = 6.5
+| speed  = very slow
+| ut     = 44
+| ss     = 12
+| sell   = 5400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Rotted Fork
+| wtype  = spear
+| hm =  || rarity = 1
+| dmg    = 14
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = slow
+| ut     = 30
+| ss     = 4
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = The Undertaker
+| wtype  = gun
+| hm =  || rarity = 1
+| dmg    = 15
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 23
+| ss     = 5
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 10000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Thorn Chakram
+| wtype  = boomerang
+| hm =  || rarity = 3
+| dmg    = 25
+| dtype  = melee
+| hta    = no
+| kb     = 8
+| speed  = very fast
+| ut     = 14
+| ss     = 11
+| sell   = 10000
+| mana   =
+| ammo   =
+| db     = Poisoned
+| time   = 7s
+| chance = 20%
+}}
+{{/weapons row
+| name   = Throwing Knife
+| wtype  = consumable
+| hm =  || rarity = 0
+| dmg    = 12
+| dtype  = thrown
+| hta    = no
+| kb     = 2
+| speed  = very fast
+| ut     = 14
+| ss     = 10
+| sell   = 10
+| mana   =
+| ammo   = Throwing Knife
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tin Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 4
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 120
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tin Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 7
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 27
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 105
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tin Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 21
+| ss     =
+| sell   = 135
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tin Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = slow
+| ut     = 30
+| ss     =
+| sell   = 120
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tin Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 5
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = fast
+| ut     = 20
+| ss     =
+| sell   = 150
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tin Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 105
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+
+| name   = Titanium Chainsaw
+| wtype  = chainsaw
+| hm =  || rarity = 4
+| dmg    = 34
+| dtype  = melee
+| hta    = yes
+| kb     = 4.6
+| speed  = fast
+| ut     = 24
+| ss     = 40
+| sell   = 25200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Titanium Drill
+| wtype  = drill
+| hm =  || rarity = 4
+| dmg    = 27
+| dtype  = melee
+| hta    = yes
+| kb     = 0
+| speed  = fast
+| ut     = 24
+| ss     = 32
+| sell   = 25200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Titanium Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 4
+| dmg    = 27
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 25200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Titanium Repeater
+| wtype  = repeater
+| hm =  || rarity = 4
+| dmg    = 41
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 2.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 18
+| ss     = 10.5
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 28000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Titanium Sword
+| wtype  = broadsword
+| hm =  || rarity = 4
+| dmg    = 46
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = average
+| ut     = 25
+| ss     =
+| sell   = 32200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Titanium Trident
+| wtype  = spear
+| hm =  || rarity = 4
+| dmg    = 40
+| dtype  = melee
+| hta    = no
+| kb     = 6.2
+| speed  = fast
+| ut     = 22
+| ss     = 5
+| sell   = 21000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Titanium Waraxe
+| wtype  = axe
+| hm =  || rarity = 4
+| dmg    = 44
+| dtype  = melee
+| hta    = yes
+| kb     = 7.5
+| speed  = slow
+| ut     = 34
+| ss     =
+| sell   = 21600
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tizona || extra = {{console icon}}
+| wtype  = broadsword
+| hm =  || rarity = 5
+| dmg    = 56
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 60000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tome of Infinite Wisdom
+| wtype  = magic
+| hm = yes || rarity = 5
+| dmg    = 24
+| dmgtt  = the Tome of Infinite Wisdom has an alternate attack to summon a piercing tornado
+| dtype  = magic
+| hta    = yes
+| kb     = 0
+| speed  = average
+| ut     = 29
+| ss     = 11
+| sell   = 10000
+| mana   = 20
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tonbogiri || extra = {{console icon}}
+| wtype  = spear
+| hm =  || rarity = 5
+| dmg    = 53
+| dtype  = melee
+| hta    = no
+| kb     = 6.4
+| speed  = very fast
+| ut     = 21
+| ss     = 5.6
+| sell   = 400000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Topaz Staff
+| wtype  = magic
+| hm =  || rarity = 0
+| dmg    = 15
+| dtype  = magic
+| hta    = no
+| kb     = 3.5
+| speed  = very slow
+| ut     = 37
+| ss     = 6.5
+| sell   = 600
+| mana   = 4
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Toxic Flask
+| wtype  = magic
+| hm     = yes
+| rarity = 8
+| dmg    = 46
+| dtype  = magic
+| hta    = no
+| kb     = 4
+| speed  = average
+| ut     = 27
+| ss     = 9
+| sell   = 20000
+| mana   = 30
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Toxikarp
+| wtype  = Gun
+| hm     = yes
+| rarity = 5
+| dmg    = 43
+| dtype  = ranged
+| hta    = yes
+| kb     = 3
+| speed  = very fast
+| ut     = 13
+| ss     = 8.5
+| sell   = 40000
+| mana   =
+| ammo   =
+| db     = Poisoned
+| time   = 10-30s
+| chance = 100%
+}}
+{{/weapons row
+| name   = Trident
+| wtype  = spear
+| hm =  || rarity = 1
+| dmg    = 10
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = slow
+| ut     = 30
+| ss     = 4
+| sell   = 2000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = True Excalibur
+| wtype  = broadsword
+| hm =  || rarity = 8
+| dmg    = 60
+| dtype  = melee
+| hta    = no
+| kb     = 4.5
+| speed  = very fast
+| ut     = 15
+| ss     = 11
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = True Night's Edge
+| wtype  = broadsword
+| hm =  || rarity = 8
+| dmg    = 78
+| dtype  = melee
+| hta    = no
+| kb     = 4.75
+| speed  = fast
+| ut     = 23
+| ss     = 10
+| sell   = 100000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tsunami
+| wtype  = bow
+| hm =  || rarity = 8
+| dmg    = 60*5
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 23
+| ss     = 10
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 100000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tungsten Axe
+| wtype  = axe
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = yes
+| kb     = 4.5
+| speed  = average
+| ut     = 25
+| ss     =
+| sell   = 800
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tungsten Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 10
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 25
+| ss     = 6.6
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 1050
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tungsten Broadsword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 12
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = fast
+| ut     = 19
+| ss     =
+| sell   = 1350
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tungsten Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 1200
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tungsten Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 0
+| dmg    = 6
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 20
+| ss     =
+| sell   = 1500
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Tungsten Shortsword
+| wtype  = shortsword
+| hm =  || rarity = 0
+| dmg    = 10
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = very fast
+| ut     = 10
+| ss     =
+| sell   = 1050
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Unholy Trident
+| wtype  = magic
+| hm =  || rarity = 6
+| dmg    = 67
+| dtype  = magic
+| hta    = no
+| kb     = 6.5
+| speed  = average
+| ut     = 29
+| ss     = 13
+| sell   = 100000
+| mana   = 14
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Unholy Water
+| wtype  = consumable
+| hm =  || rarity = 3
+| dmg    = 20
+| dmgtt = No bonuses from armor
+| dtype  = thrown
+| hta    = no
+| kb     = 3
+| speed  = very fast
+| ut     = 14
+| ss     = 9
+| sell   = 40
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Uzi
+| wtype  = gun
+| hm =  || rarity = 7
+| dmg    = 30
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = yes
+| kb     = 3.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 9
+| ss     = 13
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 60000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Valkyrie Yoyo
+| wtype  = yoyo
+| hm     = yes
+| rarity = 9
+| dmg    = 70
+| dtype  = melee
+| hta    = yes
+| kb     = 8.5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 0
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Valor
+| wtype  = yoyo
+| hm =  || rarity = 3
+| dmg    = 22
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 15000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Vampire Knives
+| wtype  = Projectile_melee_weapons#Only_Projectile{{!}}projectile
+| hm =  || rarity = 8
+| dmg    = 29*5.625
+| dmgtt  = 4-8 shot spread; 5.625 average
+| dtype  = melee
+| hta    = yes
+| kb     = 2.75
+| speed  = very fast
+| ut     = 16
+| ss     = 15
+| sell   = 200000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Venom Staff
+| wtype  = magic
+| hm =  || rarity = 7
+| dmg    = 63*5
+| dmgtt  = 5-shot spread
+| dtype  = magic
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 30
+| ss     = 14
+| sell   = 70000
+| mana   = 25
+| ammo   = mana
+| db     = Venom
+| time   = 30s
+| chance =
+}}
+{{/weapons row
+| name   = Venus Magnum
+| wtype  = gun
+| hm =  || rarity = 7
+| dmg    = 36
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 5.5
+| kbtt   = plus the knockback of the ammo used
+| speed  = insanely fast
+| ut     = 7
+| ss     = 13.5
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 50000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Vilethorn
+| wtype  = magic
+| hm =  || rarity = 1
+| dmg    = 10
+| dtype  = magic
+| hta    = no
+| kb     = 1
+| speed  = average
+| ut     = 27
+| ss     = 32
+| sell   = 2000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Vortex Beater
+| wtype  = gun
+| hm =  || rarity = 10
+| dmg    = 50*5
+| dmgtt  = plus the damage of the ammo used, includes damage of homing rocket every fifth shot
+| dtype  = ranged
+| hta    = yes
+| kb     = 2
+| kbtt   = plus the knockback of the ammo used
+| speed  = very fast
+| ut     = 20
+| ss     = 20
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 100000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Vortex Hamaxe
+| wtype  = hamaxe
+| hm =  || rarity = 10
+| dmg    = 60
+| dtype  = melee
+| hta    = yes
+| kb     = 7
+| speed  = average
+| ut     = 27
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Vortex Pickaxe
+| wtype  = pickaxe
+| hm =  || rarity = 10
+| dmg    = 80
+| dtype  = melee
+| hta    = yes
+| kb     = 2
+| speed  = very fast
+| ut     = 11
+| ss     =
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Vulcan Repeater || extra = {{console icon}}
+| wtype  = repeater
+| hm =  || rarity = 5
+| dmg    = 55
+| dtype  = ranged
+| hta    = yes
+| kb     = 2.5
+| speed  = very fast
+| ut     = 15
+| ss     = 17
+| sell   = 50000
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Wand of Sparking
+| wtype  = magic
+| hm =  || rarity = 1
+| dmg    = 8
+| dtype  = magic
+| hta    = no
+| kb     = 0
+| speed  = average
+| ut     = 27
+| ss     = 7
+| sell   = 1000
+| mana   = 2
+| ammo   =
+| db     = On Fire!
+| time   = ??
+| chance = ??
+}}
+{{/weapons row
+| name   = War Axe of the Night
+| wtype  = axe
+| hm =  || rarity = 1
+| dmg    = 20
+| dtype  = melee
+| hta    = yes
+| kb     = 6
+| speed  = average
+| ut     = 29
+| ss     =
+| sell   = 2700
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Wasp Gun
+| wtype  = magic
+| hm =  || rarity = 8
+| dmg    = 19*4
+| dmgtt  = 2- to 6-shot spray, 4-shot average
+| dtype  = magic
+| hta    = yes
+| kb     = 0
+| speed  = very fast
+| ut     = 11
+| ss     = 9
+| sell   = 100000
+| mana   = 6
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Water Bolt
+| wtype  = magic
+| hm =  || rarity = 2
+| dmg    = 17
+| dtype  = magic
+| hta    = yes
+| kb     = 5
+| speed  = very fast
+| ut     = 16
+| ss     = 4.5
+| sell   = 10000
+| mana   = 10
+| ammo   = mana
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Wooden Boomerang
+| wtype  = boomerang
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = no
+| kb     = 5
+| speed  = very fast
+| ut     = 15
+| ss     = 6.5
+| sell   = 1000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Wooden Bow
+| wtype  = bow
+| hm =  || rarity = 0
+| dmg    = 4
+| dmgtt  = plus the damage of the ammo used
+| dtype  = ranged
+| hta    = no
+| kb     = 0
+| kbtt   = plus the knockback of the ammo used
+| speed  = average
+| ut     = 29
+| ss     = 6.1
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 20
+| mana   =
+| ammo   = arrows
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Wooden Hammer
+| wtype  = hammer
+| hm =  || rarity = 0
+| dmg    = 2
+| dtype  = melee
+| hta    = yes
+| kb     = 5.5
+| speed  = very slow
+| ut     = 36
+| ss     =
+| sell   = 10
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Wooden Sword
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 7
+| dtype  = melee
+| hta    = no
+| kb     = 4
+| speed  = fast
+| ut     = 24
+| ss     =
+| sell   = 20
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Wooden Yoyo
+| wtype  = yoyo
+| hm =  || rarity = 0
+| dmg    = 9
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 100
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Xenopopper
+| wtype  = gun
+| hm =  || rarity = 8
+| dmg    = 45*4.5
+| dmgtt  = plus the damage of the ammo used; 4 or 5-shot spread
+| dtype  = ranged
+| hta    = yes
+| kb     = 3
+| kbtt   = plus the knockback of the ammo used
+| speed  = fast
+| ut     = 20
+| ss     = 12
+| sstt   = plus the shoot speed of the ammo used
+| sell   = 100000
+| mana   =
+| ammo   = bullets
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Xeno Staff
+| wtype  = Summon
+| hm     = yes
+| rarity = 8
+| dmg    = 36
+| dtype  = minion
+| hta    = no
+| kb     = 2
+| speed  = slow
+| ut     = 35
+| ss     = 10
+| sell   = 100000
+| mana   = 10
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Yelets
+| wtype  = yoyo
+| hm =  || rarity = 7
+| dmg    = 60
+| dtype  = melee
+| hta    = yes
+| kb     = 5
+| speed  = fast
+| ut     = 24
+| ss     = 16
+| sell   = 50000
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
+{{/weapons row
+| name   = Zombie Arm
+| wtype  = broadsword
+| hm =  || rarity = 0
+| dmg    = 12
+| dtype  = melee
+| hta    = no
+| kb     = 4.5
+| speed  = very fast
+| ut     = 19
+| ss     =
+| sell   = 400
+| mana   =
+| ammo   =
+| db     =
+| time   =
+| chance =
+}}
