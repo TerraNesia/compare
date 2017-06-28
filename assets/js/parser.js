@@ -11,7 +11,8 @@ function debug(){
 }
 function parse(name){
 	var rawFile = new XMLHttpRequest();
-	var namepatt = /^\| name \= [a-zA-Z0-9_ ]$/g;
+	var namefindpatt = /\| name \= [a-zA-Z0-9_ ]+/g;
+	var namereplacepatt = /\| name \= /;
     rawFile.open("GET",file, false);
     rawFile.onreadystatechange = function ()
     {
@@ -20,20 +21,16 @@ function parse(name){
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var result = rawFile.responseText;
-				var replaced = result.replace(/\| name \=/g,'');
-                alert(replaced);
 				
-				var numOfTrue = 0;
-				for(var i=0;i<result.length;i++){
-   				 if(result.match(namepatt))
-       				numOfTrue++;
-				}
-				alert(numOfTrue);
+                alert(result);
+				
+				
+				
             }
         }
     };
     rawFile.send(null);
 	
-	var itemname = name.replace(/\| name \=/, '');
+	var itemname = name.replace(namereplacepatt, '');
 	return itemname;
 }
