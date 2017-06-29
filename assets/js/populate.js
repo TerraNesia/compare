@@ -23,11 +23,20 @@ function populate(){
 					var obj = {};
 					e.forEach(function(f){
 						var g = f.split("=");
+						g.forEach(function(h, i){
+							g[i] = h.trim();
+						});
 						obj[g[0]] = g[1];
 					});
 					weaponData[obj["name"]] = obj;
 				});
-				console.log(weaponData);
+
+				var datalist = document.getElementById('items');
+				Object.keys(weaponData).forEach(function(e){
+					var opt = document.createElement("option");
+					opt.setAttribute("value", e);
+					datalist.append(opt);
+				});
 			}
 		}
 	});
