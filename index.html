@@ -1,17 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Terranesia Item Compare</title>
+  <title>Terranesia Weapon Compare</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <meta name="description" content="Terranesia item comparer">
-  <script src="assets/js/parser.js"></script>
+  <meta name="description" content="Terranesia weapon comparer">
   <link rel="stylesheet" href="assets/font/andybold.css">
   <link rel="stylesheet" href="assets/styles/style.css">
 </head>
 <body>
   <div class="container">
-    <h1>Terraria Compare Item</h1>
+    <h1 class="header">Terraria Compare Weapon</h1>
+    <!-- Dua kolom, satu item satu kolom. Menggunakan teknik row dan flexbox. -->
+    <div class="table compare">
+      <div class="row">
+        <!-- DataList implementation -->
+        <div class="col one">
+          <h4>Criteria</h4>
+        </div>
+        <div class="col two">
+          <label>Item 1:
+          <input list="items" name="item1" type="text" /></label>
+        </div>
+        <div class="col two">
+          <label>Item 2:
+          <input list="items" name="item2" type="text" /></label>
+        </div>
+        <datalist id="items">
+          <!-- To be populated using js -->
+        </datalist>
+      </div>
+    </div>
+    <!--
     <form action="" method="POST">
       First Item:<br>
      <input type="text" name="firstitem"><br>
@@ -19,6 +39,9 @@
       <input type="text" name="seconditem">
   	<input type="button" name="submit" value="Submit" onclick='debug();' />
     </form>
+    -->
   </div>
+  <script src="assets/js/populate.js"></script>
+  <script src="assets/js/parser.js"></script>
 </body>
 </html>

@@ -3,3 +3,38 @@ body{
 	padding: 0;
 	font-family: "Andy Bold";
 }
+
+.container{
+	margin: 2em;
+}
+
+input[type="text"]{
+	border-radius: 0;
+	border: #c0c0c0 1px solid;
+}
+
+.header{
+	text-align: center;
+}
+
+.table{
+	&.compare{
+		margin: 0 4em;
+		.row{
+			display: flex;
+			width: 100%;
+			.col{
+				&.one{
+					width: 20%;
+				}
+				&.two{
+					width: 40%;
+				}
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 720px){
+	.container{ margin: 0; }
+}
