@@ -11,6 +11,7 @@ body{
 input[type="text"]{
 	border-radius: 0;
 	border: #c0c0c0 1px solid;
+	width: auto;
 }
 
 .header{
@@ -37,4 +38,5 @@ input[type="text"]{
 
 @media screen and (max-width: 720px){
 	.container{ margin: 0; }
+	.table.compare{ margin: 0; .row .col{ &.one, &.two{ width: 100%; } } }
 }
