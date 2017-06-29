@@ -1,5 +1,4 @@
 @font-face {
 	font-family: "Andy Bold";
-	src: local("Andy Bold") //check for local font first, saves some kbs
-	url("Andy Bold.ttf"); //else just download it, totally worth it.
+	src: url("./Andy Bold.ttf");
 }
